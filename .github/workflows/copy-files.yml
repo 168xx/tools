@@ -39,9 +39,10 @@ jobs:
         cp -r $(pwd)/*.txt $(pwd)/*.m3u target-repo/live/    
     
     - name: Add, commit, and force push changes    
-      run: |  
-        git config --local user.name 'github-actions'  
-        git config --local user.email 'github-actions@github.com'  
-        git add live  
-        git commit -m 'Automated conversion of tv/tv.m3u to live' || true  # 如果没有变化则不提交  
-        git push origin HEAD
+      run: |    
+        cd target-repo    
+        git add live/    
+        if [ -n "$(git status --porcelain)" ]; then    
+          git commit -m "Automated update of .txt and .m3u files"    
+          git push -f origin HEAD:168xx/jdcj/live  # 使用强制推送更新目标分支    
+        fi
