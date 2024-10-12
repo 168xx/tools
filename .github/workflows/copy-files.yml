@@ -34,9 +34,9 @@ jobs:
         git config --local user.email "action@github.com"  
         git config --local user.name "github-actions"  
   
-- name: Copy .txt and .m3u files to target repository  
+    - name: Copy .txt and .m3u files to target repository  
       run: |  
-        cp $(pwd)/../*.txt $(pwd)/../*.m3u target-repo/live/  
+        cp -r $(pwd)/*.txt $(pwd)/*.m3u target-repo/live/  
   
     - name: Add, commit, and push changes  
       run: |  
