@@ -5,8 +5,8 @@ on:
     branches:  
       - main  # 确保您推送的分支是此处指定的分支，或者改为 '*' 以匹配所有分支  
     paths:  
-      - '*.txt'  
-      - '*.m3u'  
+      - '**/*.txt'  
+      - '**/*.m3u'  
   
 jobs:  
   copy-files:  
@@ -56,3 +56,5 @@ jobs:
           echo "No changes to commit"  
         fi  
       env:  
+        # 这里不需要再次设置 TARGET_REPO_PAT，因为它只在之前的步骤中使用  
+        # 但如果您需要在此步骤中使用其他秘密，可以在这里添加
