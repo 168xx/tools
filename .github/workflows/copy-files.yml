@@ -1,7 +1,9 @@
-name: Copy Files to Live  
+name: Copy Files to Live Directory  
   
 on:  
   push:  
+    branches:  
+      - main  # 确保您推送的分支是此处指定的分支，或者改为 '*' 以匹配所有分支  
     paths:  
       - '**/*.txt'  
       - '**/*.m3u'  
@@ -17,13 +19,14 @@ jobs:
     - name: Find files to copy  
       id: find-files  
       run: |  
-        echo "::set-output name=files::$(find . -type f \( -iname '*.txt' -o -iname '*.m3u' \) -print0 | xargs -0 -n1 | sed 's/^\.\///')"  
+        echo "::set-output name=files::$(find . -type f \( -iname '*.txt' -o -iname '*.m3u' \) -print0 | xargs -0 | tr '\n' ' ')"  
+        # 注意：这里将换行符替换为空格，以便在后续步骤中作为单个字符串处理  
   
     - name: Set up target repository  
       env:  
         TARGET_REPO_PAT: ${{ secrets.TARGET_REPO_PAT }}  
       run: |  
-        export TARGET_REPO_URL="https://${{ secrets.TARGET_REPO_PAT }}@github.com/168xx/jdcj.git"  
+        export TARGET_REPO_URL="https://$TARGET_REPO_PAT@github.com/168xx/jdcj.git"  
         git clone "$TARGET_REPO_URL" target-repo  
         cd target-repo  
         mkdir -p live  
@@ -32,9 +35,11 @@ jobs:
       env:  
         FILES: ${{ steps.find-files.outputs.files }}  
       run: |  
-        IFS=$'\n' # 设置换行符为字段分隔符，以正确处理多行输出  
+        # 由于 FILES 是一个由空格分隔的文件名列表，我们需要遍历它  
         for file in $FILES; do  
-          cp "$PWD/$file" target-repo/live/  
+          cp "$PWD/$(echo $file | sed 's/ //g')" target-repo/live/  # 去除文件名中可能存在的多余空格（如果有的话）  
+          # 注意：这里假设 $PWD 是源仓库的根目录，如果 $FILES 中的路径是相对的，则不需要修改  
+          # 如果 $FILES 中的路径是绝对的，则需要调整这里的路径解析逻辑  
         done  
   
     - name: Add, commit, and push changes  
@@ -43,9 +48,11 @@ jobs:
         git config --local user.email "github-actions@github.com"  
         git config --local user.name "github-actions"  
         git add live  
+        # 检查是否有更改要提交  
         if [ -n "$(git status --porcelain)" ]; then  
           git commit -m "Copied txt and m3u files from source repository"  
           git push origin main  
         else  
           echo "No changes to commit"  
-        fi
+        fi  
+      env:  
