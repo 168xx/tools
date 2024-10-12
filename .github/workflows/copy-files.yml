@@ -5,8 +5,8 @@ on:
     branches:  
       - main  # 确保您推送的分支是此处指定的分支，或者改为 '*' 以匹配所有分支  
     paths:  
-      - '**/*.txt'  
-      - '**/*.m3u'  
+      - '*.txt'  
+      - '*.m3u'  
   
 jobs:  
   copy-files:  
