@@ -1,0 +1,48 @@
+name: Copy Files to Live Directory  
+  
+on:  
+  push:  
+    paths:  
+      - '**/*.txt'  
+      - '**/*.m3u'  
+  
+jobs:  
+  copy-files:  
+    runs-on: ubuntu-latest  
+  
+    steps:  
+    - name: Checkout source repository  
+      uses: actions/checkout@v2  
+  
+    - name: List files to copy  
+      run: |  
+        for file in $(find . -type f -name "*.txt" -o -name "*.m3u"); do  
+          echo "Copying $file"  
+        done  
+  
+    - name: Set up target repository  
+      env:  
+        TARGET_REPO_PAT: ${{ secrets.TARGET_REPO_PAT }}  
+      run: |  
+        git clone https://"$TARGET_REPO_PAT"@github.com/owner/target-repo.git target-repo  
+        cd target-repo  
+        git config --local user.email "your-email@example.com"  
+        git config --local user.name "your-username"  
+  
+    - name: Copy files to target repository  
+      run: |  
+        cp -r $(find .. -type f -name "*.txt" -o -name "*.m3u") target-repo/live/  
+  
+    - name: Commit and push changes  
+      run: |  
+        cd target-repo  
+        git add live  
+        if [ -n "$(git status --porcelain)" ]; then  
+          git commit -m "Copied txt and m3u files from source repository"  
+          git push https://"$TARGET_REPO_PAT"@github.com/owner/target-repo.git HEAD:main  
+        else  
+          echo "No changes to commit"  
+        fi  
+  
+      env:  
+        TARGET_REPO_PAT: ${{ secrets.TARGET_REPO_PAT }}
