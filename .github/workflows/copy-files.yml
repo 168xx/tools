@@ -39,10 +39,11 @@ jobs:
         cp -r $(pwd)/*.txt $(pwd)/*.m3u target-repo/live/    
     
     - name: Add, commit, and force push changes    
-      run: |    
-        cd target-repo    
-        git add live/    
-        if [ -n "$(git status --porcelain)" ]; then    
-          git commit -m "Automated update of .txt and .m3u files"    
-          git push -f origin HEAD:168xx/jdcj/live  # 使用强制推送更新目标分支    
-        fi
+        run: |
+          git config --local user.email "actions@126.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit *.txt -m "Add generated file"
+          #git commit *.m3u -m "Add generated file"
+          #git pull --rebase
+          git push -f
