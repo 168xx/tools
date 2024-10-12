@@ -25,7 +25,7 @@ jobs:
   
     - name: Clone target repository  
       env:  
-        TARGET_REPO_URL: github.com:168xx/jdcj.git  # 替换为你的目标仓库URL  
+        TARGET_REPO_URL: github.com:<168xx>/<jdcj>.git  # 替换为你的目标仓库URL  
         GITHUB_TOKEN: ${{ secrets.TARGET_REPO_PAT }}  # 替换为你的目标仓库的PAT  
       run: |  
         git clone https://$GITHUB_ACTOR:$GITHUB_TOKEN@$TARGET_REPO_URL target-repo  
