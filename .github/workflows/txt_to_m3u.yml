@@ -1,11 +1,10 @@
 name: TXT转M3U
 
-on:
-  #schedule:
-    #- cron: '0 1 */1 * *'        #这里更改自动运行的时间，没这两行的话只能手动运行#酒店源1.py 
-  workflow_dispatch:
-    分支:
-      - main
+on:  
+  push:  
+    paths:  
+      - 'LB.txt'  # 当txt文件发生变化时触发  
+  workflow_dispatch:  # 手动触发  
 
 jobs:
   build:

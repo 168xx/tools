@@ -37,4 +37,4 @@ def txt_to_m3u(input_file, output_file):
 
 
 # 将txt文件转换为m3u文件
-txt_to_m3u('yeye.txt', 'yeye.m3u')
+txt_to_m3u('LB.txt', 'yeye.m3u')
