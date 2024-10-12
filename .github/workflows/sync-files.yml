@@ -1,61 +1,58 @@
-name: Sync Files to Another Repo  
+name: Copy Files to Another Repository  
   
 on:  
-  push:  
-    paths:  
-      - 'tv/tv.m3u'  # 当tv.m3u文件发生变化时触发  
-  workflow_dispatch:  # 手动触发
+  workflow_dispatch:  # 手动触发工作流  
+  # 你也可以根据需要设置其他触发条件，例如 push 或 schedule  
   
 jobs:  
-  sync-files:  
+  copy-files:  
     runs-on: ubuntu-latest  
   
-    env:  
-      TARGET_REPO_OWNER: 168xx # 目标仓库的所有者  
-      TARGET_REPO_NAME: jdcj   # 目标仓库的名称  
-      TARGET_BRANCH: live                      # 目标分支名  
-      GITHUB_TOKEN: ${{ secrets.YOUR_GITHUB_TOKEN }} # 用于身份验证的GitHub令牌  
-  
     steps:  
-    - name: Checkout 源仓库  
+    - name: Checkout source repository  
       uses: actions/checkout@v2  
   
-    - name: 克隆目标仓库的特定分支  
+    - name: Set up Git  
       run: |  
-        # 构建目标仓库的URL  
-        TARGET_REPO_URL="https://x-access-token:${GITHUB_TOKEN}@github.com/${TARGET_REPO_OWNER}/${TARGET_REPO_NAME}.git"  
-          
-        # 克隆特定分支  
-        git clone --branch ${TARGET_BRANCH} --single-branch ${TARGET_REPO_URL} target-repo  
-          
-      shell: bash
+        git config --global user.name 'github-actions'  
+        git config --global user.email 'github-actions@github.com'  
   
-    - name: 克隆目标仓库  
+    - name: Install dependencies  
+      run: |  
+        sudo apt-get update  
+        sudo apt-get install -y rsync  
+  
+    - name: Fetch target repository  
       env:  
-        TARGET_REPO_URL: ${{ steps.set_target_repo_url.outputs.url }}  
+        TARGET_REPO_URL: ${{ secrets.TARGET_REPO_URL }}  # 格式为 git@github.com:user/repo.git  
+        TARGET_REPO_PAT: ${{ secrets.TARGET_REPO_PAT }}  # 目标仓库的个人访问令牌  
       run: |  
-        git clone --branch ${TARGET_BRANCH} --single-branch ${TARGET_REPO_URL} target-repo  
+        mkdir target-repo  
         cd target-repo  
-        # 如果需要，可以在这里配置git用户信息，但通常使用GITHUB_TOKEN时不需要  
-        # git config --local user.email "action@github.com"  
-        # git config --local user.name "GitHub Action"  
+        git init  
+        git remote add origin "$TARGET_REPO_URL"  
+        git fetch origin  
+        git checkout -b gh-pages origin/gh-pages || git checkout --orphan gh-pages  # 假设目标分支是 gh-pages，根据实际情况修改  
   
-    - name: 复制文件到目标仓库  
+    - name: Copy files to target repository  
       run: |  
-        cp -r $(pwd)/*.txt $(pwd)/*.m3u ../target-repo/live/  
+        rsync -av --include='*/' --include='*.txt' --include='*.m3u' --exclude='*' . target-repo/live/  
   
-    - name: 提交并推送更改  
+    - name: Commit and push changes to target repository  
+      env:  
+        TARGET_REPO_PAT: ${{ secrets.TARGET_REPO_PAT }}  
       run: |  
-        cd ../target-repo  
+        cd target-repo  
         git add live/  
         if [ -n "$(git status --porcelain)" ]; then  
-            git commit -m "Automated sync of .txt and .m3u files from source repo"  
-            git push  
+          git commit -m "Update files from source repository"  
+          git push -u origin gh-pages  
         else  
-            echo "No changes to commit"  
+          echo "No changes to commit"  
         fi  
   
-    - name: 清理  
+    # 可选：清理工作目录  
+    - name: Cleanup  
       if: always()  
       run: |  
         rm -rf target-repo
