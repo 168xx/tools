@@ -44,5 +44,5 @@ jobs:
         git push --force origin HEAD:live  
         if [ -n "$(git status --porcelain)" ]; then  
           git commit -m "Automated update of .txt and .m3u files"  
-          git push origin HEAD:live  # 替换为你的目标分支名称  
+          git push origin live  # 替换为你的目标分支名称  
         fi
