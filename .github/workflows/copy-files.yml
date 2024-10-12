@@ -14,35 +14,35 @@ jobs:
     - name: Checkout source repository  
       uses: actions/checkout@v2  
   
-    - name: List files to copy  
+    - name: Find files to copy  
+      id: find-files  
       run: |  
-        for file in $(find . -type f -name "*.txt" -o -name "*.m3u"); do  
-          echo "Copying $file"  
-        done  
+        echo "::set-output name=files::$(find . -type f \( -iname '*.txt' -o -iname '*.m3u' \) -print0 | xargs -0 -n1 | sed 's/^\.\///')"  
   
     - name: Set up target repository  
       env:  
-        TARGET_REPO_PAT: ${{ secrets.TARGET_REPO_PAT }}  
+        TARGET_REPO_URL: https://x-access-token:${{ secrets.TARGET_REPO_PAT }}@github.com/168xx/jdcj.git  
       run: |  
-        git clone https://"$TARGET_REPO_PAT"@github.com/168xx/jdcj.git target-repo 
+        git clone "$TARGET_REPO_URL" target-repo  
         cd target-repo  
-        git config --local user.email "web@2723212.xyz"  
-        git config --local user.name "168xx"  
+        # Ensure live directory exists  
+        mkdir -p live  
   
     - name: Copy files to target repository  
       run: |  
-        cp -r $(find .. -type f -name "*.txt" -o -name "*.m3u") target-repo/live/  
+        cp -r $(for file in ${{ steps.find-files.outputs.files }}; do echo "$PWD/$file"; done) target-repo/live/  
   
-    - name: Commit and push changes  
+    - name: Add, commit, and push changes  
       run: |  
         cd target-repo  
+        git config --local user.email "github-actions@github.com"  
+        git config --local user.name "github-actions"  
         git add live  
         if [ -n "$(git status --porcelain)" ]; then  
           git commit -m "Copied txt and m3u files from source repository"  
-          git push https://"$TARGET_REPO_PAT"@github.com/owner/target-repo.git HEAD:main  
+          git push origin main  
         else  
           echo "No changes to commit"  
         fi  
-  
       env:  
         TARGET_REPO_PAT: ${{ secrets.TARGET_REPO_PAT }}
