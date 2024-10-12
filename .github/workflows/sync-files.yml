@@ -1,9 +1,10 @@
 name: Sync Files to Another Repo  
   
 on:  
-  # 触发条件，例如每天凌晨1点运行  
-  schedule:  
-    - cron: '0 1 * * *'  
+  push:  
+    paths:  
+      - 'tv/tv.m3u'  # 当tv.m3u文件发生变化时触发  
+  workflow_dispatch:  # 手动触发
   
 jobs:  
   sync-files:  
