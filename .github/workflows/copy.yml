@@ -27,24 +27,24 @@ jobs:
         git config --local user.email "action@github.com"  
         git config --local user.name "github-actions"  
   
-    - name: Copy .txt and .m3u files from source live directory to target repository  
+    - name: Copy .txt and .m3u files from source tv directory to target repository  
       run: |  
-        cp -r $(pwd)/live/*.txt $(pwd)/live/*.m3u target-repo/live/  
+        cp -r $(pwd)/tv/*.txt $(pwd)/tv/*.m3u target-repo/tv/  
         # 注意：上面的命令假设当前工作目录（$(pwd)）是源仓库的根目录，  
-        # 并且源仓库的live目录中有要复制的.txt和.m3u文件。  
-        # 如果live目录不在根目录下，请调整路径。  
+        # 并且源仓库的tv目录中有要复制的.txt和.m3u文件。  
+        # 如果tv目录不在根目录下，请调整路径。  
   
         # 但是，由于我们已经从源仓库根目录执行了git checkout，  
         # 所以这里的$(pwd)就是源仓库的根目录，因此上面的命令是正确的。  
         # 然而，为了避免混淆，我们可以更明确地指定路径（尽管在这里不是必需的）：  
-        # cp -r ./live/*.txt ./live/*.m3u target-repo/live/  
+        # cp -r ./tv/*.txt ./tv/*.m3u target-repo/tv/  
   
     - name: Add, commit, and force push changes  
       run: |  
         cd target-repo  
-        git add live/  
+        git add tv/  
         if [ -n "$(git status --porcelain)" ]; then  
-          git commit -m "Automated update of .txt and .m3u files from source live directory"  
+          git commit -m "Automated update of .txt and .m3u files from source tv directory"  
           # 注意：这里的HEAD:168xx/jdcj/live可能不是您想要的，  
           # 除非您有一个名为168xx/jdcj/live的分支。  
           # 通常，您可能想要推送到名为live的分支。  
