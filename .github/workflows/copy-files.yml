@@ -1,4 +1,4 @@
-name: Copy Files to Live Directory  
+name: Copy Files to Live  
   
 on:  
   push:  
