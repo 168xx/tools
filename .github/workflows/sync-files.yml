@@ -1,10 +1,9 @@
 name: Sync Files to Another Repo  
   
 on:  
-  push:  
-    paths:  
-      - 'tv/tv.m3u'  # 当tv.m3u文件发生变化时触发  
-  workflow_dispatch:  # 手动触发  
+  # 触发条件，例如每天凌晨1点运行  
+  schedule:  
+    - cron: '0 1 * * *'  
   
 jobs:  
   sync-files:  
@@ -13,20 +12,22 @@ jobs:
     env:  
       TARGET_REPO_OWNER: 168xx # 目标仓库的所有者  
       TARGET_REPO_NAME: jdcj   # 目标仓库的名称  
-      TARGET_BRANCH: live  
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # 用于身份验证的GitHub令牌（如果需要）  
+      TARGET_BRANCH: live                      # 目标分支名  
+      GITHUB_TOKEN: ${{ secrets.YOUR_GITHUB_TOKEN }} # 用于身份验证的GitHub令牌  
   
     steps:  
     - name: Checkout 源仓库  
       uses: actions/checkout@v2  
   
-    - name: 设置目标仓库的Git URL  
-      id: set_target_repo_url  
+    - name: 克隆目标仓库的特定分支  
       run: |  
-        # 构建目标仓库的URL，这里假设使用https和GITHUB_TOKEN进行身份验证  
-        # 注意：如果仓库是私有的，你可能需要使用PAT而不是GITHUB_TOKEN，或者确保GITHUB_TOKEN有足够的权限  
-        echo "::set-output name=url::https://x-access-token:${GITHUB_TOKEN}@github.com/${TARGET_REPO_OWNER}/${TARGET_REPO_NAME}.git"  
-      shell: bash  
+        # 构建目标仓库的URL  
+        TARGET_REPO_URL="https://x-access-token:${GITHUB_TOKEN}@github.com/${TARGET_REPO_OWNER}/${TARGET_REPO_NAME}.git"  
+          
+        # 克隆特定分支  
+        git clone --branch ${TARGET_BRANCH} --single-branch ${TARGET_REPO_URL} target-repo  
+          
+      shell: bash
   
     - name: 克隆目标仓库  
       env:  
