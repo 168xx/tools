@@ -21,16 +21,21 @@ jobs:
   
     - name: Set up target repository  
       env:  
-        TARGET_REPO_URL: https://x-access-token:${{ secrets.TARGET_REPO_PAT }}@github.com/168xx/jdcj.git  
+        TARGET_REPO_PAT: ${{ secrets.TARGET_REPO_PAT }}  
       run: |  
+        export TARGET_REPO_URL="https://${{ secrets.TARGET_REPO_PAT }}@github.com/168xx/jdcj.git"  
         git clone "$TARGET_REPO_URL" target-repo  
         cd target-repo  
-        # Ensure live directory exists  
         mkdir -p live  
   
     - name: Copy files to target repository  
+      env:  
+        FILES: ${{ steps.find-files.outputs.files }}  
       run: |  
-        cp -r $(for file in ${{ steps.find-files.outputs.files }}; do echo "$PWD/$file"; done) target-repo/live/  
+        IFS=$'\n' # 设置换行符为字段分隔符，以正确处理多行输出  
+        for file in $FILES; do  
+          cp "$PWD/$file" target-repo/live/  
+        done  
   
     - name: Add, commit, and push changes  
       run: |  
@@ -43,6 +48,4 @@ jobs:
           git push origin main  
         else  
           echo "No changes to commit"  
-        fi  
-      env:  
-        TARGET_REPO_PAT: ${{ secrets.TARGET_REPO_PAT }}
+        fi
