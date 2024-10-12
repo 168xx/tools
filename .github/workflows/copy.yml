@@ -1,4 +1,4 @@
-name: Copy Files to Another  
+name: Copy m3u to txt  
   
 on:  
   push:  
