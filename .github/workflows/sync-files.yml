@@ -3,32 +3,46 @@ name: Sync Files to Another Repo
 on:  
   push:  
     paths:  
-      - 'LB.txt'  # 当txt文件发生变化时触发  
+      - 'tv/tv.m3u'  # 当tv.m3u文件发生变化时触发  
   workflow_dispatch:  # 手动触发  
   
 jobs:  
   sync-files:  
     runs-on: ubuntu-latest  
   
+    env:  
+      TARGET_REPO_OWNER: 168xx # 目标仓库的所有者  
+      TARGET_REPO_NAME: jdcj   # 目标仓库的名称  
+      TARGET_BRANCH: live  
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # 用于身份验证的GitHub令牌（如果需要）  
+  
     steps:  
     - name: Checkout 源仓库  
       uses: actions/checkout@v2  
   
-    - name: 设置目标仓库的Git凭证  
-      env:  
-        TARGET_REPO_URL: ${{ secrets.TARGET_REPO_URL }} # 格式如：https://<username>:<token>@github.com/<owner>/<repo>.git  
-        TARGET_BRANCH: live  
+    - name: 设置目标仓库的Git URL  
+      id: set_target_repo_url  
       run: |  
-        git clone $TARGET_REPO_URL target-repo --branch $TARGET_BRANCH --single-branch  
-        cd target-repo  
-        git config --local user.email "action@github.com"  
-        git config --local user.name "GitHub Action"  
+        # 构建目标仓库的URL，这里假设使用https和GITHUB_TOKEN进行身份验证  
+        # 注意：如果仓库是私有的，你可能需要使用PAT而不是GITHUB_TOKEN，或者确保GITHUB_TOKEN有足够的权限  
+        echo "::set-output name=url::https://x-access-token:${GITHUB_TOKEN}@github.com/${TARGET_REPO_OWNER}/${TARGET_REPO_NAME}.git"  
+      shell: bash  
   
-    - name: 复制 .txt 和 .m3u 文件到目标仓库  
+    - name: 克隆目标仓库  
+      env:  
+        TARGET_REPO_URL: ${{ steps.set_target_repo_url.outputs.url }}  
+      run: |  
+        git clone --branch ${TARGET_BRANCH} --single-branch ${TARGET_REPO_URL} target-repo  
+        cd target-repo  
+        # 如果需要，可以在这里配置git用户信息，但通常使用GITHUB_TOKEN时不需要  
+        # git config --local user.email "action@github.com"  
+        # git config --local user.name "GitHub Action"  
+  
+    - name: 复制文件到目标仓库  
       run: |  
         cp -r $(pwd)/*.txt $(pwd)/*.m3u ../target-repo/live/  
   
-    - name: 提交并推送更改到目标仓库  
+    - name: 提交并推送更改  
       run: |  
         cd ../target-repo  
         git add live/  
@@ -39,7 +53,6 @@ jobs:
             echo "No changes to commit"  
         fi  
   
-    # 清理工作区  
     - name: 清理  
       if: always()  
       run: |  
