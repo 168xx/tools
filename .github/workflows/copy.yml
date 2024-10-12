@@ -1,0 +1,56 @@
+name: Copy Files to Another  
+  
+on:  
+  push:  
+    paths:  
+      - 'live/*.txt'  # 当live目录中的txt文件发生变化时触发  
+      - 'live/*.m3u'  # 当live目录中的m3u文件发生变化时触发  
+  workflow_dispatch:  # 手动触发  
+  
+jobs:  
+  copy-files:  
+    runs-on: ubuntu-latest  
+  
+    steps:  
+    - name: Checkout source repository  
+      uses: actions/checkout@v2  
+  
+    # 省略设置Python和安装依赖的步骤，除非您需要在后续步骤中使用它们  
+  
+    - name: Clone target repository  
+      env:  
+        TARGET_REPO_URL: github.com/168xx/zdgx.git  # 替换为你的目标仓库URL  
+        GITHUB_TOKEN: ${{ secrets.TARGET_REPO_PAT }}  # 替换为你的目标仓库的PAT  
+      run: |  
+        git clone https://$GITHUB_ACTOR:$GITHUB_TOKEN@$TARGET_REPO_URL target-repo  
+        cd target-repo  
+        git config --local user.email "action@github.com"  
+        git config --local user.name "github-actions"  
+  
+    - name: Copy .txt and .m3u files from source live directory to target repository  
+      run: |  
+        cp -r $(pwd)/live/*.txt $(pwd)/live/*.m3u target-repo/live/  
+        # 注意：上面的命令假设当前工作目录（$(pwd)）是源仓库的根目录，  
+        # 并且源仓库的live目录中有要复制的.txt和.m3u文件。  
+        # 如果live目录不在根目录下，请调整路径。  
+  
+        # 但是，由于我们已经从源仓库根目录执行了git checkout，  
+        # 所以这里的$(pwd)就是源仓库的根目录，因此上面的命令是正确的。  
+        # 然而，为了避免混淆，我们可以更明确地指定路径（尽管在这里不是必需的）：  
+        # cp -r ./live/*.txt ./live/*.m3u target-repo/live/  
+  
+    - name: Add, commit, and force push changes  
+      run: |  
+        cd target-repo  
+        git add live/  
+        if [ -n "$(git status --porcelain)" ]; then  
+          git commit -m "Automated update of .txt and .m3u files from source live directory"  
+          # 注意：这里的HEAD:168xx/jdcj/live可能不是您想要的，  
+          # 除非您有一个名为168xx/jdcj/live的分支。  
+          # 通常，您可能想要推送到名为live的分支。  
+          # 如果目标仓库的live分支是默认的或您想要推送的分支，  
+          # 请使用以下命令：  
+          git push -f origin live  
+          # 如果您确实有一个名为168xx/jdcj/live的分支，并且想要推送到它，  
+          # 请确保该分支在目标仓库中存在，并且上面的命令是正确的。  
+        fi
