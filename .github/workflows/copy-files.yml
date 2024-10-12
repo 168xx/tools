@@ -24,7 +24,7 @@ jobs:
       env:  
         TARGET_REPO_PAT: ${{ secrets.TARGET_REPO_PAT }}  
       run: |  
-        git clone https://"$TARGET_REPO_PAT"@github.com/168xx/jdcj.git target-repo  
+        git clone https://"$TARGET_REPO_PAT"@github.com/168xx/jdcj.git target-repo 
         cd target-repo  
         git config --local user.email "web@2723212.xyz"  
         git config --local user.name "168xx"  
