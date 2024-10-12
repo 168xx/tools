@@ -1,0 +1,46 @@
+name: Sync Files to Another Repo  
+  
+on:  
+  push:  
+    paths:  
+      - 'LB.txt'  # 当txt文件发生变化时触发  
+  workflow_dispatch:  # 手动触发  
+  
+jobs:  
+  sync-files:  
+    runs-on: ubuntu-latest  
+  
+    steps:  
+    - name: Checkout 源仓库  
+      uses: actions/checkout@v2  
+  
+    - name: 设置目标仓库的Git凭证  
+      env:  
+        TARGET_REPO_URL: ${{ secrets.TARGET_REPO_URL }} # 格式如：https://<username>:<token>@github.com/<owner>/<repo>.git  
+        TARGET_BRANCH: live  
+      run: |  
+        git clone $TARGET_REPO_URL target-repo --branch $TARGET_BRANCH --single-branch  
+        cd target-repo  
+        git config --local user.email "action@github.com"  
+        git config --local user.name "GitHub Action"  
+  
+    - name: 复制 .txt 和 .m3u 文件到目标仓库  
+      run: |  
+        cp -r $(pwd)/*.txt $(pwd)/*.m3u ../target-repo/live/  
+  
+    - name: 提交并推送更改到目标仓库  
+      run: |  
+        cd ../target-repo  
+        git add live/  
+        if [ -n "$(git status --porcelain)" ]; then  
+            git commit -m "Automated sync of .txt and .m3u files from source repo"  
+            git push  
+        else  
+            echo "No changes to commit"  
+        fi  
+  
+    # 清理工作区  
+    - name: 清理  
+      if: always()  
+      run: |  
+        rm -rf target-repo
