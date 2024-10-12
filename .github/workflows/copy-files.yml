@@ -44,5 +44,5 @@ jobs:
         git add live/    
         if [ -n "$(git status --porcelain)" ]; then    
           git commit -m "Automated update of .txt and .m3u files"    
-          git push -f origin HEAD:live  # 使用强制推送更新目标分支    
+          git push -f origin HEAD:168xx/live  # 使用强制推送更新目标分支    
         fi
