@@ -16,17 +16,9 @@
 篮球赛事,#genre#
 ㋉㏳CBA常规赛🏀📡
 ㍫³⁵辽宁本钢🆚天津先行者
-🔊粤🎙️1讲波
-🔊国🎙️1说球
 ㍫³⁵广东阳光🆚新疆伊力特
-🔊粤🎙️2讲波
-🔊国🎙️2说球
 ㍫³⁵北京北汽🆚广州朗肽海本
-🔊粤🎙️3讲波
-🔊国🎙️3说球
 ㍫³⁵上海久事🆚浙江稠州金租
-🔊粤🎙️4讲波
-🔊国🎙️4说球
 ㍫³⁵山西汾酒🆚深圳马可波罗
 🔊粤🎙️5讲波
 🔊国🎙️5说球
@@ -44,7 +36,6 @@
 粤语长片轮播,p3p://108.181.32.169:25570/643361c7000d4bee220f05703b541d41
 粤语长片轮播,P2p://generationnexxxt.com:19806/3d6644cc478648c2952a8c69cb9fccf5
 粤剧白蛇传情
-粤剧白蛇传情
 国语译制电影
 第一滴血全集
 敢死队全轮播
@@ -60,8 +51,6 @@
 美剧解说轮播
 经典美剧解说
 雪中悍刀行剧
-雪中悍刀行剧
-庆余年电视剧
 庆余年电视剧
 琅琊榜电视剧
 83射雕英雄传
@@ -75,17 +64,11 @@
 鹊刀门传奇剧
 三生三世轮播
 甄嬛传电视剧
-甄嬛传电视剧
-甄嬛传电视剧
 芈月传电视剧
-芈月传电视剧
-延禧攻略轮播
 延禧攻略轮播
 卿卿日常轮播
 知否知否轮播
 与凤行电视剧
-与凤行电视剧
-开端电视轮播
 开端电视轮播
 我的体育老师
 如果岁月轮播
@@ -97,7 +80,6 @@
 伪装者电视剧
 警察荣誉轮播
 雪豹电视轮播
-雪豹电视轮播
 火蓝刀锋轮播
 二炮手电视剧
 炮神电视轮播
@@ -105,7 +87,6 @@
 武林外传轮播
 科幻Fans轮播
 科幻解说轮播
-科幻梦工场播
 科幻梦工场播
 笑声传奇轮播
 笑傲帮集轮播
@@ -116,8 +97,6 @@
 欢乐集结号四
 金星脱口秀播
 脱口秀大会肆
-脱口秀大会肆
-脱口秀大会伍
 脱口秀大会伍
 吐槽大会京都
 吐槽大会海天
@@ -129,14 +108,11 @@
 粤语轮播港剧
 粤语经典综艺
 粤语星爷电影
-粤语星爷电影
 粤语极清电影
 粤语版电影一
 粤语版电影二
 粤语版电影三
 重温经典频道
-重温经典频道
-星空卫视频道
 星空卫视频道
 动作电影频道
 家庭影院频道
@@ -314,11 +290,6 @@ CETV4台频道
 劲爆体育频道
 新视觉hd频道
 魅力足球频道
-重温经典频道
-重温经典频道
-动作电影频道
-家庭影院频道
-影迷电影频道
 北京卫视频道
 东方卫视频道
 浙江卫视频道
@@ -349,12 +320,10 @@ CETV4台频道
 黑龙江视频道
 闽南频道,#genre#
 中天新闻频道
-中天新闻频道
 中天新闻频加
 中天亚洲频道
 东森新闻频道
 tvbs新闻频道
-寰宇新闻频道
 寰宇新闻频道
 非凡新闻频道
 闽镜新闻频道
@@ -363,13 +332,11 @@ tvbs新闻频道
 华视新闻频道
 台视新闻频道
 民视闽南频道
-民视闽南频道
 中视闽南频道
 华视闽南频道
 台视闽南频道
 寰宇闽南频道
 tvbs闽南频道
-民视台湾频道
 民视台湾频道
 民视第一频道
 民视旅游频道
@@ -472,45 +439,20 @@ tvbs闽南频代
 广东新闻频道
 广东民生频道
 广东体育频道
-广东体育频道
 广东影视频道
-广东珠江频道
-广东新闻频道
-广东民生频道
-广东体育频道
-广东影视频道
-广东珠江频道
-广东新闻频道
-广东民生频道
-广东体育频道
 广州竞赛频道
 广州新闻频道
 凤凰卫视频道
-凤凰资讯频道
 凤凰香港频备
 香港卫视频道
-星空卫视频道
-中天新闻频道
 有线新闻频道
 无线新闻频道
-无线新闻频道
-无线新闻频道
-无线翡翠频道
-无线翡翠频道
 无线翡翠频道
 无线华丽频道
-无线华丽频道
 无线星河频道
-无线星河频道
-千禧经典频道
-千禧经典频道
-千禧经典频道
 千禧经典频道
 美亚电影频粤
-重温经典频道
 Astr剧集频道
-动作电影频道
-家庭影院频道
 高清电影频道
 RTHK-31频陆,p3p://108.181.32.169:25570/64101f330006ab429853d45f7940453b
 RTHK-32频陆,p3p://108.181.32.169:25570/641020b00001b8599859a360613572d7
@@ -524,13 +466,8 @@ RTHK-35频道
 澳视葡语频道
 澳门资讯频道
 澳门mac频道
-重温经典频道
 中天新闻频特
-中天新闻频特
-中天新闻频加
 三立新闻频特
-三立新闻频特
-三立新闻频加
 三立新闻频加
 tvbs新闻频特
 闽镜新闻频特
@@ -538,8 +475,6 @@ tvbs新闻频特
 中视新闻频特
 华视新闻频特
 台视新闻频特
-台视新闻频特
-公视新闻频特
 公视新闻频特
 民视闽南频道,rtmp://f13h.mine.nu/sat/tv051
 中视闽南频道,rtmp://f13h.mine.nu/sat/tv091
@@ -568,18 +503,8 @@ amc电影频英
 ASC搜索频英
 Diso综合频英
 momotv频特,rtmp://f13h.mine.nu/sat/tv761
-东森新闻频道
-tvbs闽南频道
-民视闽南频道
-中视闽南频道
-华视闽南频道
-民视第一频道
-民视台湾频道
 三立综合频道
-tvbs欢乐频道
-龙华电影频道
 猪哥亮歌厅国
-亚洲旅游频道
 幸福空间频道
 HakkaTV频道
 TiTV原视频道
@@ -605,7 +530,6 @@ CCTV-01斯特
 CCTV-02斯特
 CCTV-03斯特
 CCTV-04斯特
-CCTV-04斯特
 CCTV-05斯特
 CCTV 5+斯特
 CCTV-06斯特
@@ -623,10 +547,7 @@ CGTN_英斯特
 北京卫视斯特
 东方卫视斯特
 浙江卫视斯特
-浙江卫视斯特
 江苏卫视斯特
-江苏卫视斯特
-湖南卫视斯特
 湖南卫视斯特
 深圳卫视斯特
 广东卫视斯特
@@ -644,7 +565,6 @@ Plus综合斯特
 有线新闻斯特
 无线新闻斯特
 无线翡翠斯特
-无线华丽斯特
 无线华丽斯特
 无线明珠斯特
 无线娱乐斯特
@@ -681,7 +601,6 @@ Tvbs新闻斯特
 台视闽南斯特
 台视综合斯特
 民视第一斯特
-民视闽南斯特
 八大第一斯特
 八大综合斯特
 八大戏剧斯特
@@ -692,17 +611,13 @@ Tvbs新闻斯特
 华艺综合斯特
 东森综合斯特
 东森戏剧斯特
-东森电影斯特
 东森洋片斯特
 东森超视斯特
 东森财经斯特
-龙祥电影斯特
 龙华戏剧斯特
-龙华电影斯特
 龙华偶像斯特
 龙华洋片斯特
 纬来综合斯特
-纬来电影斯特
 纬来体育斯特
 纬来育乐斯特
 纬来日本斯特
@@ -850,9 +765,6 @@ hbo强档频陆,p3p://108.181.32.169:25570/64137f970005246ea5845a9326ce6233
 Discovery_陆,p3p://108.181.32.169:25570/641383f300048101a59561c464b07293
 KixHD频道陆,p3p://108.181.32.169:25570/6413854d000785b1a59aaa2924fa1aa7
 闽南频陆,#genre#
-中天新闻频道
-中天新闻频道
-中天新闻频加
 中天新闻频陆,p3p://108.181.32.169:25570/66b8a957000d4df01b530def7c6064f4
 东森新闻频陆,p3p://108.181.32.169:25570/64251f9700046520ea5ce8b85b6c11da
 tvbs新闻频陆,p3p://108.181.32.169:25570/64252188000673fcea647eb0397d464d
@@ -932,7 +844,6 @@ CI罪案侦查陆,p3p://108.181.32.169:25570/642520d9000d93c9ea61d4ea78792b01
 金光布袋戏陆,p3p://108.181.32.169:25570/6425246600099458ea6fb2ab4398320b
 Catc电影频陆,p3p://108.181.32.169:25570/64252479000b7f1aea6ffd6177e3015c
 卫视中文频陆,p3p://108.181.32.169:25570/64252507000eefc4ea7228f32f390502
-好莱坞电影陆,p3p://108.181.32.169:25570/6425244f0001184fea6f56a70aca63d2
 卫视电影频陆,p3p://108.181.32.169:25570/642525150008a4ecea725e071929091e
 星卫电影频陆,p3p://108.181.32.169:25570/642521030009ef43ea62780c438e2a38
 美亚电影频陆,p3p://108.181.32.169:25570/642525310003ad3cea72ca2155c734c3
@@ -962,46 +873,29 @@ BBCNew频陆,p3p://108.181.32.169:25570/641384e7000133cda5991a1b33cb3ea0
 DWHD频道陆,p3p://108.181.32.169:25570/641384f6000cbd09a59957a77daa41a1
 童年频道,#genre#
 龙珠全集解壹
-龙珠全集解壹
-龙珠全集解贰
 龙珠全集解贰
 龙珠全集剧叁
-龙珠全集剧叁
-龙珠全集剧肆
 龙珠全集剧肆
 斌哥解说漫壹
-斌哥解说漫壹
-斌哥解说漫贰
 斌哥解说漫贰
 圣斗士集解壹
-圣斗士集解壹
-圣斗士集解贰
 圣斗士集解贰
 圣斗士集解叁
 足球小将剧集
 足球小将轮播
 足球小将解说
-足球小将解说
 灌篮高手剧集
 头文字D解说
 头文字D剧集
-头文字D剧集
-一人之上漫剧
 一人之上漫剧
 叮当全集解说
-叮当全集剧集
 叮当全集剧集
 料理小当家集
 柯南剧场版集
 四驱兄弟剧集
-四驱兄弟剧集
-樱桃小丸子剧
 樱桃小丸子剧
 猫和老鼠剧集
-猫和老鼠剧集
 蜡笔小新剧集
-蜡笔小新剧集
-Q版三国剧集
 Q版三国剧集
 粤语配音电影
 粤语动画电影
@@ -1149,8 +1043,6 @@ HZTV-贰电信
 中山教育电信
 徐闻综合电信
 广州综合频道
-广州新闻频道
-广州竞赛频道
 广州影视频道
 广州法治频道
 佛山综合频道
@@ -1170,7 +1062,6 @@ HZTV-贰电信
 河源综合频道
 云浮综合频道
 云浮文旅频道
-篮球赛事,#genre#
 ㋉㏳🏀📡
 🏀暂无🆚直播🏀
 央卫频晴,#genre#
@@ -1276,8 +1167,8 @@ now财经频晴,P2p://generationnexxxt.com:19806/f0dd1f92af2845c2abd2ff29aff2b8c
 港台电视31晴,P2p://generationnexxxt.com:19806/c7cd517a9e5b44a9b6037c90f998627f
 港台电视32晴,P2p://generationnexxxt.com:19806/8ef4a2b7bac54aba8b17dfd2071df91f
 凤凰中文频晴,P2p://generationnexxxt.com:19806/d897c583969747fc8a362653e01faf4f
-凤凰中文频晴,P2p://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f	
-凤凰信息频晴,P2p://generationnexxxt.com:19806/d207c4a98e784d1299a9aa63268f21c6	
+凤凰中文频晴,P2p://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
+凤凰信息频晴,P2p://generationnexxxt.com:19806/d207c4a98e784d1299a9aa63268f21c6
 凤凰信息频晴,P2p://generationnexxxt.com:19806/3f7b6ed02526445e89ce536992d04ef5
 凤凰香港频晴,P2p://generationnexxxt.com:19806/51ed8623722a469f8caa15a0e12a6761
 澳门macau晴,P2p://generationnexxxt.com:19806/a2bbc4a4feec4168804624c67fdea801
@@ -1807,7 +1698,6 @@ DJ 流浪兄弟
 精选6首DJ情歌
 酒吧DJ舞曲
 花都开了你来不来DJ
-海来阿木《浪子心》DJ沈念版
 DJ舞曲
 4K高清岳云鹏
 甜歌美人舞
@@ -1869,23 +1759,10 @@ DJ《夜难眠》
 DJ《一个人挺好》
 DJ《原谅你的谎》
 DJ《真的为你哭了》
-DJ《心在跳情在烧》
-DJ《我们不再是从前》
-DJ舞曲《让我做你的眼睛》
-DJ版《爱不得忘不舍》
-DJ版《蜜雪冰城》
-2021年最火伤感音乐
 桥边姑娘
 芒种
-2021年网络火爆伤感情歌6首
 2021年6首网络伤感情歌
-2021热门伤感DJ
-6首DJ情歌
-几首比较火的DJ情歌
-精选6首DJ情歌
 《爱难求情难断…》
-酒吧DJ舞曲
-花都开了你来不来DJ
 六首伤感DJ舞曲《为爱受尽相思罪》《爱过了头心伤透》FHD
 伤感情歌DJ舞曲FHD
 一首伤感歌曲
@@ -1930,7 +1807,6 @@ DJ舞曲《拼命的喝酒拼命的抽烟》
 《经典老歌》伤感女声篇
 《听风的歌》DJ舞曲重低音夜店歌曲
 2018精选十首《动感DJ舞曲》串烧大碟
-DJ舞曲
 2020国外热门动感DJ版
 2019火爆DJ串烧第一期
 车载DJ推荐《将军在上》《馋丫头》
@@ -1938,59 +1814,8 @@ DJ舞曲
 DJ歌曲《怎么爱都爱不够》
 《鸳鸯DJ》劲爆DJ
 MV_Stellar_高清
-今日热歌DJ《如果爱还在》
-推荐9首DJ舞曲
-动感DJ《苦了累了听听歌》
 车载DJ《殇雪》
 月老掉线超清版
-DJ《心在跳情在烧》
-孙艺琪《寂寞的人别听伤感情歌》
-郭镐鸣《野摩托》
-赵蕾蕾《寂寞的城伤心的人》
-DJ版《真的为你哭了》
-海来阿木《浪子心》DJ沈念版
-《人间惊鸿客》
-DJ版《三月里的小雨》
-DJ版《望爱却步》
-《唱着情歌流着泪》
-DJ版《一个人挺好》
-《爱你到最后一刻》
-伤感DJ《等》
-DJ《我们不再是从前》
-DJ舞曲《让我做你的眼睛》
-DJ版《时间会知道你好不好》
-DJ版《爱不得忘不舍》
-DJ版《蜜雪冰城》
-DJ版《夜难眠》
-《无味》 DJ版
-DJ版《原谅你的谎》
-DJ《等爱》
-DJ《醉过多少回》
-DJ小鱼儿 - 如果你真的要离开 (DJ加快版)
-DJ情歌《爱情迷了路》
-《忘川彼岸DJ》
-DJ音乐舞曲《一千个轮回》
-DJ 最美不过你的微笑
-DJ 流浪兄弟
-车载DJ《多年以后》
-百花香(抖音DJ版)
-经典老歌DJ舞曲七首
-精选五首DJ男声串烧
-韩可可《错位时空》DJ版
-忘记你需要多久(DJ小鱼儿版)
-抖音热歌《大风吹+夜夜夜漫长》
-一夜火爆i网络DJ舞曲
-2021年最火伤感音乐
-2021年网络火爆伤感情歌6首
-2021热门伤感DJ
-6首DJ情歌
-几首比较火的DJ情歌
-精选6首DJ情歌
-酒吧DJ舞曲
-花都开了你来不来DJ
-DJ舞曲
-DJ舞曲
-DJ舞曲
 7 DJ舞曲
 DJ  无情书
 DJ版《秒针》
@@ -2003,12 +1828,6 @@ DJ版《秒针》
 全程舒服车载音乐视频-车载DJ音乐精品美女夜店DJ视频
 跳舞节奏音乐视频-车载DJ音乐精品美女夜店DJ视频
 抖音车载热曲视频-车载DJ音乐精品美女夜店DJ视频
-2021热门伤感DJ
-6首DJ情歌
-几首比较火的DJ情歌
-精选6首DJ情歌
-《爱难求情难断…》
-花都开了你来不来DJ
 5首劲爆dj
 动感超人dj
 野花香dj
@@ -2055,12 +1874,9 @@ dj舞曲英雄泪
 中国人民解放军军歌
 唱支山歌给党听
 人说山西好风光
-人说山西好风光
 小鸟小鸟
 让我们荡起双桨
-让我们荡起双桨
 泉水叮咚响
-学习雷锋好榜样
 学习雷锋好榜样
 我们的生活充满阳光
 金梭和银梭
@@ -2068,25 +1884,21 @@ dj舞曲英雄泪
 珊瑚颂
 边疆的泉水清又纯
 好大一棵树
-好大一棵树
 工农齐武装
 送别
 十送红军
 归心似箭
 地道战
 主席的话儿记心上
-主席的话儿记心上
 歌唱大别山
 拥军秧歌
 英雄赞歌
 蒙山巍巍碧水长
 梦驼铃
-梦驼铃
 绒花
 怀念战友
 花儿为什么这样红
 热血颂
-望星空
 望星空
 军中绿花
 少年壮志不言愁
@@ -2095,7 +1907,6 @@ dj舞曲英雄泪
 血染的风采
 驼铃
 相逢是首歌
-为了谁
 为了谁
 英雄泪
 当兵的人
@@ -2110,37 +1921,25 @@ dj舞曲英雄泪
 金手指HD粤
 非诚勿扰3HD
 醉拳
-醉拳
 双龙会
-双龙会
-龙门飞甲
 龙门飞甲
 黄飞鸿之狮王争霸
-黄飞鸿之铁鸡斗蜈蚣
 黄飞鸿之铁鸡斗蜈蚣
 黄飞鸿之男儿当自强
 黄飞鸿之壮志凌云
 义胆雄心
-义胆雄心
 东成西就
 东方三侠
-人在囧途
 人在囧途
 倩女幽魂妖魔道
 倩女幽魂人间道
 倩女幽魂道道道
 A计划
-A计划
-九一神雕侠侣
 九一神雕侠侣
 九二神雕之痴心情长剑
 刀剑笑
-刀剑笑
-天若有情
 天若有情
 龙兄虎弟
-龙兄虎弟
-东方秃鹰
 东方秃鹰
 投名状
 中南海保镖
@@ -2165,7 +1964,6 @@ A计划
 龙在天涯
 笑傲江湖2：东方不败
 不二神探
-功夫之王
 封神传奇
 建国大业
 英雄
@@ -2207,7 +2005,6 @@ A计划续集
 攀登者
 天将雄师
 功夫瑜伽
-龙腾虎跃
 迷你特工队
 急先锋
 红番区
@@ -2224,7 +2021,6 @@ A计划续集
 少林木人巷
 拳精
 龙拳
-夏日福星
 夏日福星
 城市猎人
 大兵小将
@@ -2253,7 +2049,6 @@ A计划续集
 哗！英雄
 最佳损友
 最佳损友闯情关
-江湖情
 江湖情
 群龙夺宝
 肝胆相照
@@ -2288,7 +2083,6 @@ A计划续集
 赌城大亨II之至尊无敌
 解救吾先生
 天下无贼
-天下无贼
 江湖
 龙在边缘
 龙在江湖
@@ -2316,7 +2110,6 @@ A计划续集
 澳门风云3
 赌神1
 赌神2
-让子弹飞
 让子弹飞
 义不容辞
 秋天的童话
@@ -2417,7 +2210,6 @@ A计划续集
 洪熙官
 赞先生与找钱华
 英雄无泪
-猛鬼旅行团
 猛鬼旅行团
 学校风云
 时来运转
@@ -2621,22 +2413,11 @@ CCTV4国际美洲HD
 东南卫视HD
 江西卫视HD
 海南卫视
-云南卫视
-兵团卫视
-厦门卫视
 四川卫视
 南方卫视
-宁夏卫视
-山西卫视
 广西卫视
-新疆卫视
 河南卫视
-甘肃卫视
-西藏卫视
 三沙卫视
-陕西卫视
-青海卫视
-内蒙古视
 BRTV新闻HD
 BRTV影视HD
 BRTV文艺HD
@@ -2647,13 +2428,11 @@ BRTV科教HD
 BRTV少儿HD
 BRTV纪实HD
 BRTV纪实[HDR]
-BRTV纪实HD
 BRTV体育HD
 BRTV国际HD
 爱上4KHD
 4K超清HD
 淘电影HD
-每日影院HD
 星影
 动作影院
 光影
@@ -2690,8 +2469,6 @@ CETV1HD
 CETV2
 CETV3
 CETV4
-少儿动画
-热播剧场
 解密
 军事
 军旅剧场
@@ -2705,7 +2482,6 @@ CETV4
 好学生
 山东教育
 戏曲
-收视指南
 早教
 武侠剧场
 武术
@@ -2714,18 +2490,15 @@ CETV4
 美妆
 财富天下
 足球
-金鹰卡通
 鉴赏
 音乐现场
 高网
-魅力时尚
 北京电信,#genre#
 CCTV1HD
 CCTV2HD
 CCTV3HD
 CCTV4HD
 CCTV5HD
-CCTV5+HD
 CCTV6HD
 CCTV7HD
 CCTV8HD
@@ -2748,7 +2521,6 @@ CETV1
 北京青年
 北京新闻
 北京卡酷少儿
-北京冬奥纪实 4K
 北京冬奥纪实 4K
 房山
 朝阳融媒
@@ -2812,100 +2584,16 @@ CCTV14
 CCTV15
 CCTV17
 CGTN
-CETV1
-CETV2
-CETV3
-CETV4
 北京北京卫视
-北京文艺
-北京科教
-北京影视
-北京财经
-北京冬奥纪实
-北京生活
-北京青年
-北京新闻
-北京卡酷少儿
 北京国际
-湖南卫视
-浙江卫视
-江苏卫视
-安徽卫视
-天津卫视
-辽宁卫视
-山东卫视
-云南卫视
-河南卫视
-黑龙江卫视
-四川卫视
-江西卫视
-贵州卫视
-深圳卫视
-湖北卫视
-东方卫视
-重庆卫视
-东南卫视
-河北卫视
-广东卫视
-南方卫视
-广西卫视
 吉林卫视
-陕西卫视
-山西卫视
 内蒙古卫视
-青海卫视
-海南卫视
-宁夏卫视
-西藏卫视
-新疆卫视
-甘肃卫视
-厦门卫视
-兵团卫视
 山东教育卫视
-三沙卫视
-金鹰卡通
-财富天下
-嘉佳卡通
 IPTV收视指南
 IPTV热播剧场
 IPTV经典电影
 IPTV魅力时尚
 IPTV少儿动画
-城市剧场
-军旅剧场
-古装剧场
-音乐现场
-地理
-美妆
-美人
-精选
-解密
-军事
-国学
-戏曲
-早教
-动画
-好学生
-鉴赏
-墨宝
-光影
-台球
-爱生活
-武术
-高网
-足球
-武侠剧场
-喜剧影院
-动作影院
-家庭影院
-星影
-聚鲨环球精选
-聚鲨北京
-聚鲨健康
-聚鲨生活
-聚鲨国际
-江西卫视
-CCTV13
 山东移动,#genre#
 CCTV1-综合
 CCTV2-财经
@@ -2922,30 +2610,7 @@ CCTV12-社会与法
 CCTV13-新闻
 CCTV14-少儿
 CCTV15-音乐
-北京卫视
 上海卫视
-江西卫视
-陕西卫视
-山东卫视
-东南卫视
-安徽卫视
-重庆卫视
-四川卫视
-河北卫视
-河南卫视
-黑龙江卫视
-吉林卫视
-辽宁卫视
-山西卫视
-湖北卫视
-湖南卫视
-广东卫视
-浙江卫视
-广西卫视
-云南卫视
-新疆卫视
-甘肃卫视
-深圳卫视
 风云足球
 天津联通,#genre#
 CCTV-HD1
@@ -2978,40 +2643,7 @@ CCTV-HD女性时尚
 CCTV-HD世界地理
 CCTV-HD央视文化精品
 CCTV-HD央视台球
-北京卫视
-东方卫视
-天津卫视
-浙江卫视
-江苏卫视
-湖南卫视
-广东卫视
-深圳卫视
-安徽卫视
-贵州卫视
-海南卫视
-三沙卫视
-河南卫视
-黑龙江卫视
-湖北卫视
-吉林卫视
-甘肃卫视
-江西卫视
-辽宁卫视
-内蒙古卫视
-宁夏卫视
-青海卫视
-山西卫视
-陕西卫视
-四川卫视
-西藏卫视
-新疆卫视
-兵团卫视
-广西卫视
-云南卫视
-重庆卫视
-河北卫视
 保定卫视
-山东教育卫视
 河东卫视
 河西卫视
 蓟州卫视
@@ -3019,7 +2651,6 @@ CCTV-HD央视台球
 4K私享家
 4K影视
 CETV早期教育
-CGTN
 CGTN纪录
 CHC动作电影
 CHC高清电影
@@ -3027,8 +2658,6 @@ CHC家庭影院
 FTV足球
 GTV网络棋牌
 GTV游戏竞技
-财富天下
-茶频道
 车迷频道
 东方财*
 东方购物
@@ -3036,7 +2665,6 @@ GTV游戏竞技
 都市剧场
 法制天地
 风尚购物
-风尚生活
 哈哈炫动
 好享购物
 欢乐动漫
@@ -3044,23 +2672,15 @@ GTV游戏竞技
 环球旅游
 环球奇观
 极速汽车
-纪实人文
 家家购物
 家庭理*
 家有购物
 金色学堂
-金鹰纪实
-金鹰卡通
 靓妆
-聚鲨环球精选
-卡酷少儿
-快乐垂钓
 快乐生活
 乐游
 梨园频道
-每日影院
 魅力足球
-汽摩
 三角英语
 生活时尚
 生态环境
@@ -3074,16 +2694,11 @@ GTV游戏竞技
 新影老故事
 新影中学生
 幸福彩
-幸福剧场
-幸福娱乐
 央广购物
 湖北购物
 优购物
-优优宝贝
 游戏风云
 悦美生活
-中国天气
-中华特产
 中视购物
 天津新闻
 天津文艺
@@ -3109,46 +2724,6 @@ GTV游戏竞技
 滨海2
 大港油田企业
 绍兴联通,#genre#
-CCTV1-综合
-CCTV2-财经
-CCTV3-综艺
-CCTV4-国际
-CCTV5-体育
-CCTV6-电影
-CCTV7-军农
-CCTV8-电视剧
-CCTV9-纪录
-CCTV10-科教
-CCTV11-戏曲
-CCTV12-社会与法
-CCTV13-新闻
-CCTV14-少儿
-CCTV15-音乐
-北京卫视
-江苏卫视
-东方卫视
-湖南卫视
-安徽卫视
-重庆卫视
-广东卫视
-四川卫视
-江西卫视
-贵州卫视
-山东卫视
-辽宁卫视
-吉林卫视
-天津卫视
-黑龙江卫视
-东南卫视
-河南卫视
-湖北卫视
-陕西卫视
-山西卫视
-广西卫视
-云南卫视
-河北卫视
-金鹰卡通
-哈哈炫动
 重庆联通,#genre#
 CCTV-1
 CCTV-2
@@ -3167,25 +2742,7 @@ CCTV-13
 CCTV-14
 CCTV-15
 CCTV-17
-CGTN
-北京卫视
-东方卫视
-浙江卫视
-江苏卫视
-湖南卫视
-广东卫视
-深圳卫视
-安徽卫视
-天津卫视
-辽宁卫视
-河北卫视
-贵州卫视
-山东卫视
-东南卫视
 黑龙江卫
-江西卫视
-四川卫视
-重庆卫视
 重庆新闻HD
 重庆社会HD
 重庆少儿HD
@@ -3208,47 +2765,18 @@ CQTV移动
 CQTV时尚
 CQTV农村
 CQTV少儿
-爱生活
 IPTV小品
 IPTV野外
 IPTV3+
 IPTV5+
 IPTV6+
 IPTV8+
-经典电影
-解密
 全纪实
-纪实HD
-地理
-古装剧场
-武侠剧场
-军旅剧场
-喜剧影院
-动作影院
-家庭影院
-星影
 湖南联通,#genre#
-CCTV-1
-CCTV-2
-CCTV-3
-CCTV-4
-CCTV-5
-CCTV-6
-CCTV-7
-CCTV-8
-CCTV-9
-CCTV-10
-CCTV-11
-CCTV-12
-CCTV-13
-CCTV-14
-CCTV-15
 CCTV-16
-CCTV-17
 邵阳县电视台
 邵阳公共频道
 邵阳新闻频道
-湖南卫视
 湖南娱乐
 湖南电视剧
 湖南电影
@@ -3258,36 +2786,14 @@ CCTV-17
 湖南国际
 湖南金鹰纪实
 湖南公共频道
-CHC高清电影
-CHC动作电影
-CHC家庭影院
 中国教育4
 老故事
 政法频道
 天元围棋
-嘉佳卡通
-哈哈炫动
 优漫卡通
 卡酷动画
-金鹰卡通
-浙江卫视
 上海东方卫视
-云南卫视
-江苏卫视
-深圳卫视
-四川卫视
-贵州卫视
-东南卫视
-河北卫视
-陕西卫视
-吉林卫视
-湖北卫视
 中国气象频道
-四海钓鱼
-金鹰纪实
-黑龙江卫视
-山东教育卫视
-家有购物
 上海电信,#genre#
 CCTV1综合
 CCTV2财经
@@ -3305,64 +2811,15 @@ CCTV13新闻
 CCTV14少儿
 CCTV15音乐
 CCTV-17农村农业
-CGTN
-东方卫视
-浙江卫视
-江苏卫视
-湖南卫视
-北京卫视
-广东卫视
-深圳卫视
-黑龙江卫视
-山东卫视
-湖北卫视
-安徽卫视
-东南卫视
-江西卫视
-辽宁卫视
-天津卫视
-四川卫视
-重庆卫视
-贵州卫视
-海南卫视
-河北卫视
-宁夏卫视
-广西卫视
-吉林卫视
-山西卫视
-青海卫视
-西藏卫视
-陕西卫视
-云南卫视
-甘肃卫视
-内蒙古卫视
-河南卫视
-新疆卫视
-兵团卫视
-三沙卫视
 康巴卫视
 新闻综合
 都市频道
-纪实人文
 东方影视
 第一财经
 五星体育
-金鹰纪实
-金鹰纪实
-哈哈炫动
 上视外语
-都市剧场
 欢笑剧场
 欢笑剧场（备）
-全纪实
-金鹰卡通
-嘉佳卡通
-卡酷少儿
-北京冬奥纪实
-中国天气
-动漫秀场
-生活时尚
-游戏风云
 MAX极速汽车
 教育台
 东方财经
@@ -3379,37 +2836,15 @@ MAX极速汽车
 中国教育-1
 中国教育-2
 中国教育-4
-陶瓷
 东方购物-1HD
 东方购物-2HD
 东方购物-3HD
 东方购物-4HD
 东方购物-5HD
-聚鲨环球精选
-央广购物
-家家购物
 快乐购物
-优购物
-好享购物
 中央购物
-家有购物
 安徽电信,#genre#
-CCTV1-综合
-CCTV2-财经
-CCTV3-综艺
-CCTV4-国际
-CCTV5-体育
 CCTV5+体育赛事
-CCTV6-电影
-CCTV7-军农
-CCTV-8
-CCTV9-纪录
-CCTV10-科教
-CCTV11-戏曲
-CCTV-12
-CCTV-13
-CCTV15-音乐
-CCTV17
 影视频道
 综艺频道
 经济生活
@@ -3417,60 +2852,13 @@ CCTV17
 科教频道
 公共频道
 安徽卫视(高清)
-浙江卫视高清
-湖南卫视高清
-北京卫视高清
-东方卫视高清
-辽宁卫视高清
-山东卫视高清
-广东卫视高清
-湖北卫视高清
-天津卫视高清
-江苏卫视高清
-深圳卫视高清
 黑龙江卫视高清
-宁夏卫视
-云南卫视
-四川卫视
-江西卫视
-河北卫视
-贵州卫视
-东南卫视
-重庆卫视
-河南卫视
-广西卫视
-陕西卫视
-旅游卫视
-甘肃卫视
-吉林卫视
-新疆卫视
-青海卫视
-内蒙古卫视
-山西卫视
 海峡卫视
 陕西电信,#genre#
-CCTV1
-CCTV2
-CCTV3
-CCTV4
-CCTV5
-CCTV5+
-CCTV6
-CCTV7
-CCTV8
-CCTV9
-CCTV10
-CCTV11
-CCTV12
-CCTV14
-CCTV15
 CCTV16
-CCTV17
-CGTN
 CGTN espsnol
 CGTN francais
 陕视直播
-陕西卫视
 农林卫视
 新闻资讯
 都市青春
@@ -3480,37 +2868,18 @@ CGTN francais
 体育休闲
 西部电影
 乐家购物
-新闻综合
-都市频道
 商务资讯
-影视频道
 丝路频道
 西安教育
 圆点导视
 圆点生活
 圆点影视
-悦美生活
 曲艺大观
 睛彩三秦
-家有购物
-好享购物
-风尚购物
-生态环境
-环球旅游
-优优宝贝
-车迷频道
-全纪实
-纪实人文
-都市剧场
-欢笑剧场
-游戏风云
-CHC家庭影院
 CHC影迷电影
-CHC动作电影
 第一剧场
 风云剧场
 怀旧剧场
-风云足球
 风云音乐
 央视台球
 世界地理
@@ -3518,117 +2887,12 @@ CHC动作电影
 高尔夫网球
 兵器科技
 央视文化精品
-CETV1
-CETV2
-CETV4
-CETV1
-CETV4
-东方卫视
-湖南卫视
-金鹰纪实
-金鹰卡通
-江苏卫视
-优漫卡通
-浙江卫视
-北京卫视
-卡酷动画
-广东卫视
-嘉佳卡通
-深圳卫视
-黑龙江卫视
-湖北卫视
-山东卫视
-山东教育
-四川卫视
-安徽卫视
-重庆卫视
-天津卫视
-东南卫视
-厦门卫视
-河南卫视
-江西卫视
-吉林卫视
-贵州卫视
-辽宁卫视
-河北卫视
-云南卫视
-山西卫视
-甘肃卫视
-宁夏卫视
-海南卫视
-广西卫视
-青海卫视
-西藏卫视
-内蒙古卫视
-新疆卫视
-兵团卫视
-百事直播
-百事直播
-百事直播
-百事直播
-百事直播
-百事直播
-百事直播
-百事直播
-百事直播
 百事直播
 浙江电信,#genre#
-CCTV1
-CCTV2
-CCTV3
-CCTV4
-CCTV5
-CCTV5+
-CCTV6
-CCTV7
-CCTV8
-CCTV9
-CCTV10
-CCTV11
-CCTV12
-CCTV13
-CCTV14
-CCTV15
-CCTV16
 CCTV4k
-CCTV17
 凤凰中文
 凤凰资讯
-浙江卫视
-深圳卫视
-广东卫视
-湖南卫视
-天津卫视
-山东卫视
-江苏卫视
-北京卫视
-四川卫视
-河北卫视
-辽宁卫视
-贵州卫视
-重庆卫视
-河南卫视
-江西卫视
-东南卫视
-安徽卫视
-湖北卫视
-黑龙江卫
-东方卫视
 内蒙古卫
-甘肃卫视
-海南卫视
-青海卫视
-西藏卫视
-陕西卫视
-兵团卫视
-山西卫视
-宁夏卫视
-广西卫视
-云南卫视
-吉林卫视
-CETV1
-CETV4
-CGTN
 CGTN-西班牙语
 CGTN-法语
 CGTN-阿拉伯语
@@ -3645,7 +2909,6 @@ CGTN-俄语
 杭州4影视
 杭州5青少
 杭州导视
-极速汽车
 宁波TV1
 宁波TV2
 宁波TV3
@@ -3660,31 +2923,14 @@ CGTN-俄语
 丽水新闻
 嘉兴新闻
 桐乡新闻
-杭州导视
 之江记录
-优优宝贝
 YMG新闻
-法制天地
-金鹰卡通
-哈哈炫动
-动漫秀场
-游戏风云
-乐游
-金色学堂
-生活时尚
-茶频道
-快乐垂钓
 BesTV
 中国蓝直播
 新视觉HD
-欢笑剧场
-都市剧场
 电视购物
-家有购物
-游戏频道
 游戏频道
 未知频道
-中国蓝直播
 浙江之声广播
 浙江新闻广播
 经济频道广播
@@ -3712,142 +2958,26 @@ CCTV_14
 CCTV_15
 CCTV_17
 山东影视
-山东卫视
-北京卫视
-东方卫视
-江苏卫视
-浙江卫视
-湖南卫视
-深圳卫视
-广东卫视
-重庆卫视
-陕西卫视
-四川卫视
-河南卫视
-云南卫视
-吉林卫视
-新疆卫视
-内蒙古视
-安徽卫视
-湖北卫视
-辽宁卫视
-天津卫视
-河北卫视
-东南卫视
-广西卫视
-山西卫视
 黑龙江视
-江西卫视
-贵州卫视
-青海卫视
-宁夏卫视
-甘肃卫视
-海南卫视
-西藏卫视
 福建电信,#genre#
-CCTV-1
-CCTV-1
-CCTV-2
-CCTV-3
-CCTV-4
-CCTV-5
-CCTV5+
-CCTV-6
-CCTV-7
-CCTV-8
-CCTV-9
-CCTV-10
-CCTV-11
-CCTV-12
-CCTV-13
-CCTV-14
-CCTV-15
-CCTV-17
 凤凰资讯台
-凤凰中文台
 CGTN频道
 CGTN法语
 CGTN俄语
 CGTN德语
 CHC动作
-北京卫视
-东方卫视
-湖南卫视
-江苏卫视
-浙江卫视
-安徽卫视
-天津卫视
-深圳卫视
 湾区卫视
-广东卫视
-河北卫视
-山东卫视
-湖北卫视
-黑龙江视
-贵州卫视
-四川卫视
-江西卫视
-辽宁卫视
-重庆卫视
-东南卫视
-海峡卫视
-厦门卫视
-云南卫视
-河南卫视
-海南卫视
-广西卫视
-陕西卫视
-青海卫视
-宁夏卫视
-吉林卫视
-山西卫视
-甘肃卫视
-内蒙古视
-新疆卫视
-兵团卫视
-西藏卫视
-三沙卫视
 中国教育1
 中国教育2
-中国教育4
 中国气像
-纪实人文
-金鹰纪实
-金鹰卡通
-卡酷少儿
-哈哈炫动
-动漫秀场
-嘉佳卡通
-欢笑剧场
-都市剧场
-游戏风云
 乐游频道
-法治天地
-东方财经
-金色学堂
-快乐垂钓
-生活时尚
-中华特产
-车迷频道
-优优宝贝
-环球旅游
-生态环境
 百姓健康
-四海钓鱼
 家庭理财
-财富天下
 证券服务
-先锋乒羽
 茶道频道
-梨园频道
-文物宝库
-武术世界
 新动漫台
 中学生台
 发现之旅
-快乐购物
-央广购物
-福建综合
 福建综合
 福建公共
 福建新闻
@@ -3864,29 +2994,12 @@ CHC动作
 广东新闻标清
 CCTV1标清
 CCTV2标清
-CCTV4高清
-CCTV5高清
-CCTV6高清
 CCTV7标清
-CCTV8高清
 CCTV12标清
 CCTV14标清
-东方卫视高清
-浙江卫视高清
-江苏卫视高清
-湖南卫视高清
-深圳卫视高清
-安徽卫视高清
 甘肃卫视高清
-贵州卫视高清
-河北卫视高清
 河南卫视高清
-湖北卫视高清
-四川卫视高清
 云南卫视高清
-重庆卫视高清
-山东卫视高清
-辽宁卫视高清
 宁夏卫视标清
 青海卫视标清
 厦门卫视标清
@@ -3898,114 +3011,18 @@ CCTV14标清
 金鹰卡通标清
 经典电影标清
 广西电信,#genre#
-CCTV1
-CCTV1
-CCTV2
-CCTV2
-CCTV3
-CCTV4
-CCTV4
-CCTV5
 CCTV5＋
-CCTV6
-CCTV7
-CCTV7
-CCTV8
-CCTV9
-CCTV9
-CCTV10
-CCTV10
-CCTV11
-CCTV11
-CCTV12
-CCTV12
-CCTV13
-CCTV13
-CCTV14
-CCTV14
-CCTV15
-CCTV15
-CCTV17
-CCTV17
-北京卫视
-北京卫视
-天津卫视
-天津卫视
-东方卫视
-东方卫视
-东方财经
-重庆卫视
-浙江卫视
-浙江卫视
-安徽卫视
-安徽卫视
-江苏卫视
-江苏卫视
-山东卫视
-山东卫视
-辽宁卫视
-辽宁卫视
-吉林卫视
-黑龙江视
-黑龙江视
-内蒙古视
-宁夏卫视
-甘肃卫视
-青海卫视
-新疆卫视
-兵团卫视
-西藏卫视
-云南卫视
-四川卫视
-四川卫视
-贵州卫视
-贵州卫视
-海南卫视
-三沙卫视
-广东卫视
-广东卫视
-南方卫视
-深圳卫视
-深圳卫视
-湖南卫视
-湖南卫视
-湖北卫视
-湖北卫视
-陕西卫视
-山西卫视
-河南卫视
-河北卫视
-河北卫视
-江西卫视
-江西卫视
-东南卫视
-东南卫视
-厦门卫视
-山东教育
-广西卫视
 广西综艺
 广西影视
 广西新闻
 广西公共
 广西都市
-广西卫视
-广西综艺
-广西都市
-广西新闻
-广西公共
-广西影视
 广西国际
 广西乐思购
 广西移动电视
 广西科教
-CGTN
 CCTV中学生
-CETV1
-CETV1
-CETV2
-CETV4
 南宁影视
-南宁新闻
 南宁新闻
 南宁公共
 南宁都市
@@ -4014,15 +3031,6 @@ CETV4
 玉林新闻
 贺州新闻
 桂林新闻
-爱上4K
-经典电影
-热播剧场
-都市剧场
-生活时尚
-魅力时尚
-七彩戏剧
-法治天地
-金色频道
 广西IPTV4
 广西IPTV5
 广西IPTV7
@@ -4039,47 +3047,17 @@ IPTV3＋综艺
 IPTV5＋体育
 IPTV6＋电影
 IPTV8＋电视剧
-嘉佳卡通
-卡酷动画
-金鹰卡通
-新动漫
-少儿动画
-动漫秀场
-全纪实
 求索
 CCTV4K
-CCTV4K
 IPTV足球
-先锋乒羽
-极速汽车
 网络棋牌
-游戏风云
 电竞游戏1
 电竞游戏2
-收视指南
-中国天气
 聚鲨环球
-央广购物
-优购物
 山西电信,#genre#
-CCTV1高清
-CCTV2高清
-CCTV3高清
-CCTV4高清
-CCTV5高清
-CCTV5+高清
-CCTV6高清
 CCTV7系列
-CCTV8高清
-CCTV9高清
-CCTV10高清
 CCTV11系列
-CCTV12高清
-CCTV13高清
-CCTV14高清
-CCTV15
 CCTV16高清
-CCTV17高清
 CCTV女性时尚高清
 CCTV电视指南高清
 CCTV央视文化精品高清
@@ -4095,79 +3073,20 @@ CCTV高尔夫网球高清
 中国教育电视台1
 中国教育电视台2
 中国教育电视台4
-环球奇观
-发现之旅
 中学生
-湖南卫视高清
-四川卫视高清
-吉林卫视高清
 上海卫视高清
-湖北卫视高清
-东南卫视高清
-河南卫视高清
-江苏卫视高清
-重庆卫视高清
-黑龙江卫视高清
-浙江卫视高清
-深圳卫视高清
-广西卫视
-北京卫视高清
-辽宁卫视高清
-贵州卫视高清
-安徽卫视高清
 纪实人文高清
-天津卫视高清
-山东卫视高清
-河北卫视高清
-广东卫视高清
-江西卫视高清
-陕西卫视
-甘肃卫视
-青海卫视
-云南卫视
-海南卫视
-宁夏卫视
-西藏卫视
-兵团卫视
-新疆卫视
-内蒙古卫视
-金鹰卡通
-卡酷少儿
-金鹰纪实高清
-哈哈炫动
-嘉佳卡通
 大湾区卫视
-三沙卫视
-厦门卫视
-优漫卡通
-农林卫视
-山东教育卫视
 魅力足球高清
 生活时尚高清
 茶频道高清
 法治天地高清
 动漫秀场高清
-都市剧场高清
 金色学堂高清
 游戏风云高清
 乐游高清
-东方财经
 快乐垂钓高清
-老故事
 书画频道
-汽摩
-百姓健康
-中华特产
-中国天气
-证券服务
-车迷频道
-生态环境
-四海钓鱼
-家庭理财
-财富天下
-优优宝贝
-优购物
-环球旅游
 山西卫视高清
 黄河电视台高清
 山西经济与科技高清
@@ -4180,78 +3099,25 @@ CCTV高尔夫网球高清
 运城2台高清
 盐湖频道高清
 河北电信,#genre#
-CCTV-1
-CCTV-2
-CCTV-3
-CCTV-4
-CCTV-5
-CCTV-6
-CCTV-17
-CCTV-8
-CCTV-9
-CCTV-10
-CCTV-11
-CCTV-12
-CCTV-13
-CCTV-14
-CCTV-15
 CCTV-中学生
-河北卫视
 河北生活
 河北农民
 河北都市
 河北影视
 河北少儿科教
 河北公共
-北京卫视
-天津卫视
-河南卫视
-山西卫视
-东南卫视
-吉林卫视
-江苏卫视
-山东卫视
-贵州卫视
-云南卫视
-黑龙江卫视
-内蒙古卫视
 河北收视指南
-梨园频道
-文物宝库
-宁夏卫视
-青海卫视
-旅游卫视
-兵团卫视
-江西卫视
-湖南卫视
-湖北卫视
-四川卫视
-辽宁卫视
 河北杂技
-新疆卫视
 永年新闻综合
 健康频道
 永年民生
 永年影视
-陶瓷
 CETV-1
-西藏卫视
 三佳购物
-凤凰资讯
-金鹰卡通
 中华美食
 游戏竞技
-中国交通
 上海东方
-重庆卫视
-浙江卫视
 海南旅游
-安徽卫视
-广东卫视
-卡酷动画
-深圳卫视
-广西卫视
-陕西卫视
 邯郸新闻频道
 邯郸公共
 邯郸科教
@@ -4264,7 +3130,6 @@ CCTV-5+
 华语院线
 周末影院
 谍战剧场
-军旅剧场
 青春剧场
 宫廷正剧
 抗战剧场
@@ -4274,13 +3139,7 @@ CCTV-5+
 儿童乐园
 亲子启蒙
 相声小品
-魅力时尚
-经典电影
-热播剧场
-少儿动画
 野外
-谍战剧场
-纪实人文
 测试-1
 测试-2
 测试-3
@@ -4313,35 +3172,10 @@ CCTV（HD）央视台球
 中文国际美洲
 CGTN记录片
 CGTN西班牙语
-CGTN法语
 CCTV（HD）16奥林匹克-4K
 BestTV测试1-4K
 BestTV测试2-4K
 BestTV测试3-4K
-爱上4K
-湖北卫视
-河北卫视
-深圳卫视
-黑龙江卫视
-湖南卫视
-广东卫视
-北京卫视
-东方卫视
-浙江卫视
-江苏卫视
-天津卫视
-山东卫视
-安徽卫视
-辽宁卫视
-东南卫视
-江西卫视
-重庆卫视
-贵州卫视
-海南卫视
-河南卫视
-四川卫视
-广西卫视
-吉林卫视
 CHC-高清电影
 CHC-动作电影
 CHC-家庭影院
@@ -4362,18 +3196,6 @@ CHC-家庭影院
 蔡甸综合
 阳新综合
 房县综合
-卡酷少儿
-梨园频道
-武术世界
-快乐垂钓
-茶频道
-金鹰卡通
-金鹰纪实
-CETV1
-CCTV（HD）5+
-河北卫视
-东方卫视
-江苏卫视
 CCTV（HD）16-4K
 四川电信,#genre#
 CCTV-1高清
@@ -4394,55 +3216,10 @@ CCTV-14高清
 CCTV-15高清
 CCTV-17高清
 CGTN英语
-凤凰中文
-凤凰中文
-凤凰资讯
-凤凰资讯
-星空卫视
 星空卫视
 CHANNEL-V
-CHANNEL-V
-四川卫视高清
-四川卫视高清
-四川卫视高清
-湖南卫视高清
-江苏卫视高清
-浙江卫视高清
-东方卫视高清
-北京卫视高清
-深圳卫视高清
-广东卫视高清
-天津卫视高清
-山东卫视高清
 康巴卫视高清
-江西卫视高清
-东南卫视高清
-黑龙江视高清
-重庆卫视高清
-贵州卫视高清
-湖北卫视高清
-安徽卫视高清
-河北卫视高清
-辽宁卫视高清
-云南卫视高清
-河南卫视高清
-广西卫视高清
-吉林卫视高清
-甘肃卫视高清
-陕西卫视
-云南卫视
-山西卫视
-内蒙古视
-青海卫视
-宁夏卫视
-西藏卫视
-新疆卫视
-海南卫视
 陕西农林
-兵团卫视
-厦门卫视
-三沙卫视
-山东教育卫视
 CDTV-1高清
 SCTV-2高清
 SCTV-3高清
@@ -4457,16 +3234,10 @@ SCTV-8高清
 四川公共乡村
 四川妇女儿童
 四川影视文艺
-四川影视文艺
-四川文化旅游
 四川文化旅游
 四川新闻
 四川经济
-四川经济
 峨眉电影
-峨眉电影
-爱上4K
-爱上4K 17M2160
 爱上4K 17M2160
 CDTV-2
 CDTV-3
@@ -4474,8 +3245,6 @@ CDTV-4
 CDTV-5高清
 CDTV-6
 CDTV-8高清
-上海纪实高清
-金鹰纪实高清
 CETV-1高清
 熊猫新闻高清
 熊猫体娱高清
@@ -4485,8 +3254,6 @@ CETV-1高清
 成都体育高清
 熊猫频道高清
 金熊猫卡通高清
-炫动卡通
-嘉佳卡通
 收视导视高清
 熊猫爱生活高清
 大爱四川高清
@@ -4497,58 +3264,42 @@ HD看电影
 家政频道高清
 CETV-2
 CETV-4
-经典电影
 华语影院
 星光院线
 全球大片
-热播剧场
 热门剧场
 港剧风云
-谍战剧场
-卡酷动画
-金鹰卡通
-优漫卡通
 宝宝动画高清
 少儿动画高清
 青春动漫
 热门综艺高清
 音乐现场高清
 戏曲精选
-戏曲
 魅力时尚高清
-生活时尚
 爱生活高清
 汽摩高清
-财富天下
 股评汇
 爱体育
 电竞天堂高清
-游戏风云
 汽车频道
 足球高清
 高网高清
 台球高清
-纪实人文
 墨宝高清
 军事高清
 解密高清
 地理高清
 传奇
 导视
-收视指南
 资讯新干线
 蓉城先锋
 星空精选高清
 东方财经高清
-CGTN西班牙语
-CGTN法语
-百姓健康
 爱怀旧高清
 爱喜剧高清
 爱奇谈高清
 爱科幻高清
 爱院线高清
-都市剧场
 爱谍战高清
 爱经典高清
 爱悬疑高清
@@ -4562,15 +3313,9 @@ CGTN法语
 爱电竞高清
 爱赛车高清
 爱宠宠物
-生活时尚
-环球旅游
 来钓鱼吧
 麻辣体育
 绚影4K
-先锋乒羽
-天元围棋
-快乐垂钓
-茶频道
 热血剧场
 乐龄学堂
 亲子趣学4K
@@ -4603,108 +3348,51 @@ i成都
 云演艺宣传
 创新及人才文化节
 广州电信,#genre#
-广东卫视高清
-广东卫视高清
-广东卫视高清
 广东卫视超清
-广东珠江高清
 广东珠江超清
-广东新闻高清
 广东民生高清
-广东体育高清
 广东体育超清
 经济科教高清
 经济科教超清
 大湾区卫视高清
-广东影视高清
 南国都市 4K
-广东少儿高清
-嘉佳卡通高清
-CCTV-1高清
-CCTV-1高清
-CCTV-1高清
 CCTV-1超清
-CCTV-2高清
-CCTV-2高清
 CCTV-2高清测试
-CCTV-3高清
 CCTV-3超清
-CCTV-4高清
-CCTV-4高清
-CCTV-4高清
-CCTV-5高清
 CCTV-5超清
 CCTV-5+高清
-CCTV-5+高清
-CCTV-5+高清
-CCTV-6高清
 CCTV-6超清
-CCTV-7高清
-CCTV-7高清
 CCTV-7高清测试
-CCTV-8高清
 CCTV-8超清
-CCTV-9高清
-CCTV-9高清
 CCTV-9高清测试
-CCTV-10高清
-CCTV-10高清
 CCTV-10高清测试
-CCTV-11高清
-CCTV-12高清
-CCTV-12高清
 CCTV-12高清测试
-CCTV-13高清
-CCTV-13高清
-CCTV-14高清
-CCTV-14高清
 CCTV-14高清测试
-CCTV-15高清
-CCTV-16高清
-CCTV-16高清
 CCTV-16 4K
-CCTV-17高清
 CCTV-4K 4K
 CCTV-4K 4K50p
-CGTN
-CGTN
 CGTN英语高清
 CGTN西班牙语高清
 CGTN法语高清
 CGTN阿拉伯语高清
 CGTN俄语高清
-广东卫视
-广东卫视
-广东珠江
 广东珠江
 广东新闻
 广东民生
 广东体育
-广东体育
 广东国际
 经济科教
-大湾区卫视
-大湾区卫视
 广东影视
 广东少儿
-嘉佳卡通
-嘉佳卡通
-南方购物
-南方购物
 岭南戏曲
 广东房产
-现代教育
 广东移动
 广东综艺 4K50p
 广东综艺 4K
 广东综艺(4k)
 广东综艺4k
-广东综艺4k
-广东综艺4k
 广州综合
-广州综合高清
 广州新闻
-广州新闻高清
 广州影视
 广州影视高清
 广州法治
@@ -4722,17 +3410,10 @@ CGTN俄语高清
 广视课堂 初三
 广视课堂 高一
 广视课堂 高二
-深圳卫视
-深圳卫视
-深圳卫视高清
-深圳卫视高清
-深圳卫视高清
 深圳卫视超清
 深圳都市频道
 深圳都市频道高清
-深圳都市频道高清
 深圳电视剧频道
-深圳电视剧频道高清
 深圳电视剧频道高清
 深圳财经生活
 深圳财经生活高清
@@ -4740,11 +3421,9 @@ CGTN俄语高清
 深圳娱乐频道高清
 深圳体育健康
 深圳体育健康高清
-深圳体育健康高清
 深圳少儿频道
 深圳少儿频道高清
 深圳公共频道
-深圳公共频道高清
 深圳公共频道高清
 深圳宝安频道
 深圳宝安频道高清
@@ -4752,7 +3431,6 @@ CGTN俄语高清
 深圳龙岗频道高清
 深圳东部频道高清
 深圳众创TV高清
-深圳移动电视
 深圳宜和购物
 深圳宜和购物高清
 韶关新闻综合
@@ -4763,7 +3441,6 @@ CGTN俄语高清
 湛江新闻综合高清
 湛江公共
 湛江公共高清
-揭阳综合
 揭阳综合高清
 揭阳生活
 揭阳生活高清
@@ -4778,9 +3455,7 @@ CGTN俄语高清
 江门教育
 江门教育高清
 HZTV-1
-HZTV-1
 HZTV-1高清
-HZTV-2
 HZTV-2
 HZTV-2高清
 珠海-1
@@ -4794,10 +3469,8 @@ HZTV-2高清
 河源综合
 河源综合高清
 河源公共
-河源公共高清
 清远新闻综合
 清远新闻综合高清
-清远文旅生活
 清远文旅生活
 清远文旅生活高清
 云浮综合
@@ -4810,16 +3483,12 @@ HZTV-2高清
 茂名公共高清
 汕头综合
 汕头综合高清
-汕头综合高清
 汕头经济生活
-汕头经济生活高清
 汕头经济生活高清
 汕头文旅体育
 汕头文旅体育高清
-汕头文旅体育高清
 佛山公共
 佛山公共高清
-佛山南海
 佛山南海
 佛山南海高清
 佛山顺德
@@ -4839,146 +3508,20 @@ HZTV-2高清
 中山教育
 中山教育高清
 徐闻综合高清
-湖南卫视
-湖南卫视
-湖南卫视高清
-湖南卫视高清
-湖南卫视高清
 湖南卫视超清
-浙江卫视
-浙江卫视
-浙江卫视高清
-浙江卫视高清
-浙江卫视高清
 浙江卫视超清
-江苏卫视
-江苏卫视
-江苏卫视高清
-江苏卫视高清
-江苏卫视高清
 江苏卫视超清
-东方卫视
-东方卫视
-东方卫视高清
-东方卫视高清
-东方卫视高清
-安徽卫视
-安徽卫视
-安徽卫视高清
-安徽卫视高清
-安徽卫视高清
-北京卫视
-北京卫视
-北京卫视高清
-北京卫视高清
-北京卫视高清
-天津卫视
-天津卫视
-天津卫视高清
-天津卫视高清
-天津卫视高清
 天津卫视超清
-山东卫视
-山东卫视
-山东卫视高清
-山东卫视高清
-山东卫视高清
 山东卫视超清
-江西卫视
-江西卫视
-江西卫视高清
-江西卫视高清
-湖北卫视
-湖北卫视
-湖北卫视高清
-湖北卫视高清
-湖北卫视高清
 湖北卫视超清
-辽宁卫视
-辽宁卫视
-辽宁卫视高清
 辽宁卫视 高清
 辽宁卫视超清 )
-黑龙江卫视
-黑龙江卫视
-黑龙江卫视高清
-黑龙江卫视高清
-黑龙江卫视高清
 黑龙江卫视超清
-贵州卫视
-贵州卫视
-贵州卫视高清
-贵州卫视高清
-四川卫视
-四川卫视
-四川卫视高清
-四川卫视高清
 四川卫视超清
-河南卫视
-河南卫视
-河南卫视高清
-河南卫视高清
-云南卫视
-云南卫视
-云南卫视高清
-云南卫视高清
-重庆卫视
-重庆卫视
-重庆卫视高清
-重庆卫视高清
-重庆卫视高清
-河北卫视
-河北卫视
-河北卫视高清
-河北卫视高清
-东南卫视
-东南卫视
-东南卫视
-东南卫视高清
 赤峰电信,#genre#
-CCTV-1
-CCTV-2
-CCTV-3
-CCTV-4
-CCTV-5
-CCTV-6
-CCTV-7
-CCTV-8
-CCTV-9
-CCTV-10
-CCTV-11
-CCTV-12
-CCTV-13
-CCTV-14
-CCTV-15
-内蒙古视
-浙江卫视
-江苏卫视
-湖北卫视
-广东卫视
-山西卫视
-贵州卫视
-上海卫视
-辽宁卫视
-山东卫视
-黑龙江视
-广西卫视
-兵团卫视
-安徽卫视
-北京卫视
-东南卫视
-天津卫视
-湖南卫视
-四川卫视
-深圳卫视
-宁夏卫视
-云南卫视
-河南卫视
-江西卫视
 IPTV 6+
 马亚频晴,#genre#
 beINsports晴,P2p://generationnexxxt.com:19806/9215bd8182d04b67a9285f24816321df
-无线娱乐频晴,P2p://generationnexxxt.com:19806/e77d39049c07479ab0ff57800c6e5b06
 TV1马亚频晴,P2p://generationnexxxt.com:19806/d7229d76e8624e8d872d94d081e9524e
 TV2马亚频晴,P2p://generationnexxxt.com:19806/265c61c5d7ad468e8e0e437d23797171
 TV3马亚频晴,P2p://generationnexxxt.com:19806/5d3a3f2fec3c413d87d0b349ef79951e
@@ -4995,7 +3538,6 @@ SUNtv频道晴,P2p://generationnexxxt.com:19806/e2f91d24ea26412292bd273186b41a0a
 无线华丽频晴,P2p://generationnexxxt.com:19806/06940c129fd5442d9ecfa568fb42859f
 天文AOD频晴,P2p://generationnexxxt.com:19806/d0efbc512dd0465f9be6144fc53cc32a
 中天亚洲频晴,P2p://generationnexxxt.com:19806/6f522fd08aed4ee19dfb8485917faa66
-无线星河频晴,P2p://generationnexxxt.com:19806/e94f4c244af8464fb06eff4c9da250a6
 天映经典频晴,P2p://generationnexxxt.com:19806/3496dc2c5dc1421c8c403eb9c475753e
 天文欢喜频晴,P2p://generationnexxxt.com:19806/bb11e8d4e30b40cf836fd8617ab85e8d
 kbsworld频晴,P2p://generationnexxxt.com:19806/d84c7baef30f41cf81e16569afec7d2a
@@ -5040,9 +3582,7 @@ TV_Okey频晴,P2p://generationnexxxt.com:19806/5640c9c6b85e458a813d2b44d8f65ece
 Boomerang晴,P2p://generationnexxxt.com:19806/16af5143b3544fba92d3ea5e7539ee44
 Golf Channel,P2p://generationnexxxt.com:19806/1efa1c2e65614ce78d0c6a649fdee46a
 beIN体育贰晴,P2p://generationnexxxt.com:19806/dbf33217b02d466ebaf2776c2b6ba300
-无线娱乐频晴,P2p://generationnexxxt.com:19806/05e767dba8fa48e9ba386ed231c94318
 天文AOD频晴,P2p://generationnexxxt.com:19806/c453e6e3f2fe46c987b8f55587eb0ce7
-无线星河频晴,P2p://generationnexxxt.com:19806/afcbb73766d64754bd8d35fc330aae1c
 BBcworld频晴,P2p://generationnexxxt.com:19806/7fa4771def7c4896b1b9ea7e022f278c
 TV9马亚频晴,P2p://generationnexxxt.com:19806/2ded50bc29c04480aaad42823d1fc0f2
 TV3马亚频晴,P2p://generationnexxxt.com:19806/b0236f1ba51f4a70814d5806671dc028
@@ -5161,12 +3701,9 @@ TVB Thai,P2p://generationnexxxt.com:19806/99c848d8d2b947348da447495b7f2c42
 Bluesky,P2p://generationnexxxt.com:19806/6c091bd3b2614d4a9244d0d1ea9720fc
 Top News,P2p://generationnexxxt.com:19806/2583f8f3552a4881ae24c14412298a42
 北美频晴,#genre#
-CNBC,P2p://generationnexxxt.com:19806/0c7b37b4c3254709945af2916fe4848b
-Bloomberg TV,P2p://generationnexxxt.com:19806/b7a11fd04a2f4a44acdab32693edee1e
 ESPN,P2p://generationnexxxt.com:19806/55e3380104b04f598347c35220189f7a
 600TV,P2p://generationnexxxt.com:19806/cc580b16770e42c081a08a4ee737b28b
 CBSN,P2p://generationnexxxt.com:19806/3d6d0c5a24e847369695ae867576a4e9
-NBA,P2p://generationnexxxt.com:19806/7d628a22124a41a59ae81c474d07f573
 新时代1(西部),P2p://generationnexxxt.com:19806/977f1634589e4a7395f16cb7fd7427f7
 新时代2,P2p://generationnexxxt.com:19806/fad292ccc0c8437fb2298e8292ab8061
 新时代1(东部),P2p://generationnexxxt.com:19806/5f4a12c22b034d9ba0e25a25fb608dbe
@@ -5189,11 +3726,7 @@ KOMO 4 TV,P2p://generationnexxxt.com:19806/7d79fd423049423e8337aeac5a1eb9a0
 NHK新闻资讯台,P2p://generationnexxxt.com:19806/6dd38f99d9ca484aa3f0a2a50f60ba0f
 无线新闻台(备),P2p://147.135.39.171:9906/66141a3d000c7a12f94c49ad085f4fe9
 无线新闻台,P2p://147.135.39.171:9906/665fe3b70003d98a2157b5c1769244d0
-CGTN,P2p://generationnexxxt.com:19806/1b5e656dd2604b7e9af1133db1f40955
 BBC World News,P2p://generationnexxxt.com:19806/68b66fcb526a469c95968a8a62c27f01
-CNBC,P2p://generationnexxxt.com:19806/0c7b37b4c3254709945af2916fe4848b
-Bloomberg TV,P2p://generationnexxxt.com:19806/b7a11fd04a2f4a44acdab32693edee1e
-CNA,P2p://generationnexxxt.com:19806/061076408ecc4e4c97af6cbe74f897d9
 壹电视新闻台,P2p://generationnexxxt.com:19806/dc5cf9b6bd4a43aa973b9beea88e631b
 年代新闻(备),P2p://generationnexxxt.com:19806/00b0fb08552945cbbaf718f9d815ca73
 东森新闻台,P2p://generationnexxxt.com:19806/311e31668d704df7ade8a4d5e745d49b
@@ -5203,16 +3736,10 @@ CNA,P2p://generationnexxxt.com:19806/061076408ecc4e4c97af6cbe74f897d9
 TVBS新闻台,P2p://generationnexxxt.com:19806/53f80a10fb054d5ab0649a59980025a9
 东森财经新闻台,P2p://generationnexxxt.com:19806/5634f613b7f84f81a5c56a6af4311d57
 非凡新闻台,P2p://generationnexxxt.com:19806/3d7f2e1d0e04407ba29c656092041b09
-TNN 16,P2p://generationnexxxt.com:19806/7462454333594bef83cd252fa653d14e
-JKN 18,P2p://generationnexxxt.com:19806/5e7619bcc3d648419a7be15d55b0a6df
 三立iNEWS,P2p://generationnexxxt.com:19806/6ec25b8c951a47cfb921435fb1968c16
 Sky News,P2p://generationnexxxt.com:19806/82241dd85d9e4dad885f1c12b11e3d2e
-Euronews,P2p://generationnexxxt.com:19806/43dedaf8037e43ceb06f46baa4391692
 France24,P2p://generationnexxxt.com:19806/cff5534d052046bf8a4d8b2047aaa7c0
-600TV,P2p://generationnexxxt.com:19806/cc580b16770e42c081a08a4ee737b28b
 非凡商业台,P2p://generationnexxxt.com:19806/75d635caf96142a3807ed6c5f7e6240d
-CBSN,P2p://generationnexxxt.com:19806/3d6d0c5a24e847369695ae867576a4e9
-Fox News,P2p://generationnexxxt.com:19806/a6e8a65e41004e1dbc0ee1c762a5d30e
 NDTV,P2p://generationnexxxt.com:19806/ed51f8ce798c4eb6b1d55d499370d722
 ABC Australia,P2p://generationnexxxt.com:19806/cab3e899c937431f812c75c84b5cdf5f
 台视新闻台,P2p://generationnexxxt.com:19806/3e72f4e960264195b41106221611a5a7
@@ -5223,22 +3750,11 @@ now财经台,P2p://generationnexxxt.com:19806/f0dd1f92af2845c2abd2ff29aff2b8ca
 东森新闻台(备),P2p://generationnexxxt.com:19806/f848bf771436495b9ce252af20bea6e2
 镜新闻,P2p://generationnexxxt.com:19806/65372d81bcb84ef4b76dd34a6f0e32bc
 now新闻台,P2p://generationnexxxt.com:19806/86a69c6de155405ba916819e2634aa74
-Fox News,P2p://generationnexxxt.com:19806/f8b4af1fac554568956d500f533ed0cf
-BBC World News,P2p://generationnexxxt.com:19806/f666946be06f45e8a2e08ebf1136d385
-CNN USA,P2p://generationnexxxt.com:19806/2c9b8717e3bc4b01b2a76d8ae7ad9776
-CBC News,P2p://generationnexxxt.com:19806/fda21da704634e48b989ed9d33807e01
-MSNBC,P2p://generationnexxxt.com:19806/81bf2e7056d94f06a8efb784036f8d38
-CTV News,P2p://generationnexxxt.com:19806/236beb5caf9a4a66afcca1d7cc0a104d
-Business News Network,P2p://generationnexxxt.com:19806/0634014988a34226a3a034b527309099
-CP24,P2p://generationnexxxt.com:19806/1e461dd783af47a395e0bb79180148d2
-The Weather Network,P2p://generationnexxxt.com:19806/95294525f47d423081bec37b4a5f1537
-The Weather Channel,P2p://generationnexxxt.com:19806/118d5553ab4e4acc946d08c9d2299949
 香港国际财经台,P2p://generationnexxxt.com:19806/bddf0c6b88474142a2cab7219a93af54
 年代新闻,P2p://generationnexxxt.com:19806/f8c807d770a8429da9d058b516902907
 中天新闻台(B),P2p://147.135.39.171:9906/668829a300087a07bea90b34300003a6
 无线新闻台(B),P2p://generationnexxxt.com:19806/132be793de424970abd09ef9fe09db07
 now财经台(B),P2p://generationnexxxt.com:19806/415e15f33f8b4b5b95a400a406abd534
-Fox News(B),P2p://generationnexxxt.com:19806/95842d0c7228442a91d0e8a46a8ee1c9
 三立iNEWS(B),P2p://generationnexxxt.com:19806/1d4ae63a90fa4f77b866e6f907a2c82c
 香港国际财经台(B),P2p://generationnexxxt.com:19806/b6594fa379204fc5b11ba4bc3fe7d932
 BBC World News(B),P2p://generationnexxxt.com:19806/7fa4771def7c4896b1b9ea7e022f278c
@@ -5249,12 +3765,10 @@ TVBS新闻台(B),P2p://generationnexxxt.com:19806/bb6082c57bae466b9e6c64ba43f2c1
 年代新闻(B),P2p://generationnexxxt.com:19806/cd32e0feca2244288f8a878d7aacf0fc
 非凡新闻台(B),P2p://generationnexxxt.com:19806/a404066e65af4566931c773a385ed1e3
 音乐频晴,#genre#
-Music Japan TV,P2p://generationnexxxt.com:19806/eac0fadf3f7e4242b1282d1b3d9b4b08
 Mezzo Live,P2p://generationnexxxt.com:19806/c87ec7818611487095699a6f5d65e9c4
 CLASSICA 古典乐,P2p://generationnexxxt.com:19806/2671749a00774d36bd1afb569bd1edeb
 Channel [V],P2p://generationnexxxt.com:19806/b0e9c93b93a140df812f05eb754072a0
 体育频晴,#genre#
-beIN Sports,P2p://generationnexxxt.com:19806/9215bd8182d04b67a9285f24816321df
 CCTV5,P2p://generationnexxxt.com:19806/38c87f18f93c440594b45fd7de89a768
 CCTV5+,P2p://generationnexxxt.com:19806/7ed1624a62004620bfecc83fe0b70935
 快乐垂钓,P2p://generationnexxxt.com:19806/eaa3539d812f45878c95f848a77cfaea
@@ -5268,23 +3782,16 @@ Astro SuperSport,P2p://generationnexxxt.com:19806/6b8163e5f6c24dd3b971c0d22add38
 Astro SuperSport 2,P2p://generationnexxxt.com:19806/e9358d09c276404f91d27dca79e42b73
 Astro SuperSport 3,P2p://generationnexxxt.com:19806/3dd6cd51d294486f85d3bfdfe787a431
 Astro SuperSport 4,P2p://generationnexxxt.com:19806/bbe6f81f82924b12b01218e84e081fd5
-beIN Sports 3,P2p://generationnexxxt.com:19806/377e62e57ccb4a128195cb09fe8b107f
 WWE,P2p://generationnexxxt.com:19806/e3ac5937983b467197d0355d0bfaf53b
 纬来育乐台,P2p://generationnexxxt.com:19806/5c2e47cfcc864451b73783def36674bb
 纬来体育台,P2p://generationnexxxt.com:19806/76e607f5f18c4561b7d5b5915897cc99
 ELEVEN体育1台,P2p://generationnexxxt.com:19806/686833968d4b45319a5942827b997e59
 Z频道,P2p://generationnexxxt.com:19806/70f52ed474e541f78682604ce0330bf2
 SPOTV Stadia,P2p://generationnexxxt.com:19806/26198a4efb174a2c951ac835ac54aa97
-J Sports 1,P2p://generationnexxxt.com:19806/227ef9c657764acb9515e68d4e65bbea
-J Sports 2,P2p://generationnexxxt.com:19806/8b5d5bd857e649efa0b1e9263d8ca71f
-J Sports 3,P2p://generationnexxxt.com:19806/22f6f477f6f848b583541980c9f087bc
-J Sports 4,P2p://generationnexxxt.com:19806/6d125610fe1745e9b27ef5d6f88302fd
 Skynet Sports HD,P2p://generationnexxxt.com:19806/f23aa792094744f29bb547e2636fc9e5
 Skynet Sports 2,P2p://generationnexxxt.com:19806/947b4bfc9a464c7b99294b1d550ab225
 Skynet Sports 5,P2p://generationnexxxt.com:19806/4f5693515c4a4d048680db3e2a9565da
 Skynet Sports 6,P2p://generationnexxxt.com:19806/7b987466e58b42f8ac62bc5b805a265c
-Fight Sports,P2p://generationnexxxt.com:19806/afba524c846148f98685fb42b776435c
-ESPN,P2p://generationnexxxt.com:19806/55e3380104b04f598347c35220189f7a
 HKC 18,P2p://generationnexxxt.com:19806/e38b0ea6a9174a92bf7f30a36d4e0fe9
 爱尔达体育1台(备),P2p://generationnexxxt.com:19806/a45037ddc0734fe58e4ab3e053d811dc
 爱尔达体育2台,P2p://generationnexxxt.com:19806/dc194c3738dd40448246b92172399ccd
@@ -5302,7 +3809,6 @@ ELEVEN体育2台,P2p://generationnexxxt.com:19806/3efe7901f6354886b0c9fde9e22ebe
 博斯运动二台,P2p://generationnexxxt.com:19806/9b8a1167e7484391ab3945d2dcb29170
 Eurosport HD,P2p://generationnexxxt.com:19806/54e02c4e806047c68c75ac2a325c17d2
 FOX Sports,P2p://generationnexxxt.com:19806/5155654699e54b0d9d991cfa61d1ffaa
-NBA,P2p://generationnexxxt.com:19806/7d628a22124a41a59ae81c474d07f573
 beIN Sports 2,P2p://generationnexxxt.com:19806/23d14199213c426092f9e1002f0f143f
 爱尔达体育1台,P2p://generationnexxxt.com:19806/db1725953e1d4256bcfab79f1873a727
 爱尔达体育3台,P2p://generationnexxxt.com:19806/90ea1d1ed6654b5d863053cfceb050e0
@@ -5312,7 +3818,6 @@ Sky Sports Arena,P2p://generationnexxxt.com:19806/8af96f851dff4de3bc20f74d1c279e
 Sky Sports Main Event,P2p://generationnexxxt.com:19806/ef8f88e5ae3a466dab2bd1d312183f0b
 Sky Sports Cricket,P2p://generationnexxxt.com:19806/5ca24cd53f8a4833b81a223e59727c68
 Sky Sports Mix,P2p://generationnexxxt.com:19806/bfdd62d08ea9487ab560a16d2e2cf690
-Golf Channel,P2p://generationnexxxt.com:19806/d6d3302276514a79a289a45ec22d88f0
 五星体育,P2p://generationnexxxt.com:19806/f8ad64b9615d47ea9ab01611bd20933a
 TechStorm,P2p://generationnexxxt.com:19806/9e84e7f44550435a91e4d0d92cc0147f
 纬来育乐台(B),P2p://generationnexxxt.com:19806/582d689b3362424fbf99541335e57ba2
@@ -5338,7 +3843,6 @@ ESPN2,P2p://generationnexxxt.com:19806/e58dbb92cfb64d6498e08f8b15e51dae
 BBC Lifestyle,P2p://generationnexxxt.com:19806/213ee36f11ba4b9896c8440290ebca3b
 Lifetime,P2p://generationnexxxt.com:19806/7d5e25a5a50c47c3b6853d45f9f54d63
 KLT-靖天国际台,P2p://generationnexxxt.com:19806/924e7a65eec84eddade5f03c3d5ebb37
-HGTV居家乐活频道,P2p://generationnexxxt.com:19806/695f8cb90c384faaa0a6253d92e35176
 Love Nature,P2p://generationnexxxt.com:19806/95909f6c10614748a8d824e33bdfaad0
 美食星球,P2p://generationnexxxt.com:19806/02a89e372e1344d0b74c5b288d4d1cea
 亚洲美食频道,P2p://generationnexxxt.com:19806/ac7e749ef27c4f2c8775ecaae5cd2206
@@ -5362,13 +3866,10 @@ EYE TV旅游台(B),P2p://generationnexxxt.com:19806/5b302f252b45400888768bf7dce6
 亚洲旅游台(B),P2p://generationnexxxt.com:19806/bc0c6c9782004039b1220b4faa8a3abf
 Discovery Asia(B),P2p://generationnexxxt.com:19806/65e9a59d000f257fe8f2360919064328
 探索频道(B),P2p://generationnexxxt.com:19806/03803dbb35eb4e78a332b2b421b770c8
-动物星球频晴,P2p://generationnexxxt.com:19806/e2f475dd35c74f20b7dc33c3204beb23
 BBcearth频晴,P2p://generationnexxxt.com:19806/14e78adfa4c44280a4ad715bab2532f0
 BBC-Lifestyle,P2p://generationnexxxt.com:19806/1d87116de5de48f5a94c45900b029545
 历史频道台晴,P2p://generationnexxxt.com:19806/cf774dbea20b492db00ab609f1c43d47
 儿少频晴,#genre#
-CCTV-14频晴,P2p://generationnexxxt.com:19806/0170decf55974c7ca5439f8ae263aab4
-达文西频道晴,P2p://generationnexxxt.com:19806/170c28c8132b4ce183b4fbf61537dcff
 cn卡通频道晴,P2p://generationnexxxt.com:19806/7eb800b1540d4aab9365efc149622aa0
 MOMO亲子晴,P2p://generationnexxxt.com:19806/e15e61548a2b4ff792b3dd6620be8139
 Astr-小太阳晴,P2p://generationnexxxt.com:19806/3f9efc73e52f4cca99985de38ba0f28a
@@ -5376,92 +3877,37 @@ AstroCeria-晴,P2p://generationnexxxt.com:19806/aeb0f86165f24fda89427db290065d21
 boomerang晴,P2p://generationnexxxt.com:19806/60a0b85c79af4aee89ca0d605cdfd7a3
 ANIMAX-频晴,P2p://generationnexxxt.com:19806/7c6f8a583fc24b298779528c07b8c66d
 尼克儿童频晴,P2p://generationnexxxt.com:19806/1d8cc2412f824c3c888a5d91d241910c
-靖洋卡通频晴,P2p://generationnexxxt.com:19806/c7d3153e13894863a8d735c907971efd
-靖天卡通频晴,P2p://generationnexxxt.com:19806/f55c325d0f8b4cac938804f090c50b5c
 Nick卡通频晴,P2p://generationnexxxt.com:19806/0fdb4f78ab6f498f88c12ca5a34fffc2
 Handsup频晴,P2p://generationnexxxt.com:19806/7c21e515d5264c9fa21035456fd5024a
 boomerang晴,P2p://generationnexxxt.com:19806/16af5143b3544fba92d3ea5e7539ee44
 ANIMAX-频晴,P2p://generationnexxxt.com:19806/4913cc8e4b7e490eaebbb4a081bf02b8
 电影频晴,#genre#
 CCTV6电影晴,P2p://generationnexxxt.com:19806/bcd8bbb9c46540a98045c37dce48b29a
-美亚电影国晴,P2p://generationnexxxt.com:19806/6c34f21c2c634e5db469a2971a6e4ed0
-龙华电影频晴,P2p://generationnexxxt.com:19806/40368423d7dc44baaac3fbfc644ee9bf
 SMArT知识晴,P2p://generationnexxxt.com:19806/b90dd56d139b4ef9af62cfa2a07478f8
-靖天映画频晴,P2p://generationnexxxt.com:19806/02870872a71c4d2296b35dd02d5a9973
-靖天电影频晴,P2p://generationnexxxt.com:19806/37bdc9a3001d4081a0f0885b317d7221
-WARNER频晴,P2p://generationnexxxt.com:19806/3565510269ca47e2b0183ec1cdeca375
 Amc电影频晴,P2p://generationnexxxt.com:19806/951cecbe3fd745498d5216c042600ccf
 HBO家庭频晴,P2p://generationnexxxt.com:19806/a478d349433544c894aef4e3dc167d64
 CAT-电影频晴,P2p://generationnexxxt.com:19806/6c90e32dd9b14d1f9eebb3c57a351d15
 Cinemaw频晴,P2p://generationnexxxt.com:19806/b132ee920a4c47b284c08292e8c215f7
 壹电视电影晴,P2p://generationnexxxt.com:19806/8ce448f9cbae4feb805286d5b11bcf4d
-采昌影剧频晴,P2p://generationnexxxt.com:19806/2f739a4b287f479bbd28c962f1eb6367
-天映频道频晴,P2p://generationnexxxt.com:19806/179f2b9026a9449198a6486cb1bc8481
-天映经典频晴,P2p://generationnexxxt.com:19806/3496dc2c5dc1421c8c403eb9c475753e
-TVN韩综频晴,P2p://generationnexxxt.com:19806/2272a99a946d4f7fac4cbf0dc62fd58b
-私人影院频晴,P2p://generationnexxxt.com:19806/1b0075d4c3324fcea02675e856556cd0
-东森电影频晴,P2p://generationnexxxt.com:19806/90fe82037af64fd3bfc08879b08f3e2f
-纬来电影频晴,P2p://generationnexxxt.com:19806/73fb2db46b6c4ec885e3709d9b7a4983
-龙祥电影频晴,P2p://generationnexxxt.com:19806/1c325d3c69ec458c852b173bf2e397a9
 HBO电影频晴,P2p://generationnexxxt.com:19806/ccabaebf243e4385a8f39a6abf31f8bb
-东森洋片频晴,P2p://generationnexxxt.com:19806/29384d5c65734485903a3e592c9ef54f
-AXN电影频晴,P2p://generationnexxxt.com:19806/6c01776274094a4191d223378054782b
-好莱坞电影晴,P2p://generationnexxxt.com:19806/c4810d15af404015859a5fc5059e4716
 CINEMax频晴,P2p://generationnexxxt.com:19806/a7ef892dc3d54789b8a29e5b8b06882e
-HBO强档频晴,P2p://generationnexxxt.com:19806/7199aae1ab984d4fa9562d1babe7ba06
-HBO原创频晴,P2p://generationnexxxt.com:19806/39c393cd52cb4a1b9b51a542f897570e
-BOO电影频晴,P2p://generationnexxxt.com:19806/b98310cd5c794352bca4cffc500b0cc6
-thrill电影频晴,P2p://generationnexxxt.com:19806/d20fff7aa7d64ab19d2a39da2970734a
-HITS Movies,P2p://generationnexxxt.com:19806/0ea3b9948f824611b4a575cc5a8b4c13
 数位电影频晴,P2p://generationnexxxt.com:19806/68111c16e7bc42d3bc27791997d39a4b
-美亚电影粤晴,P2p://generationnexxxt.com:19806/81ea49b841454e1c901ac507f231a581
-动作电影频晴,P2p://generationnexxxt.com:19806/ba97d7744f9b4bbaac3d6bb6b9e3798b
-影迷电影频晴,P2p://generationnexxxt.com:19806/c77364a223374152b5dfccd162cc159a
-家庭影院频晴,P2p://generationnexxxt.com:19806/9151cec1ea824240b5ee3be1a48ae2c9
-纬来电影频晴,P2p://generationnexxxt.com:19806/c919ad41b4a9444bbc9fdf332a13724d
 CINEMax频晴,P2p://generationnexxxt.com:19806/d559fe6e91584b87bff1eaeb0660c6ef
 Cinemaw频晴,P2p://generationnexxxt.com:19806/023f59ea320a4c6e92921cefdbaa56fa
 HBO家庭频晴,P2p://generationnexxxt.com:19806/e8c4b36eccf04b64aee2e9ef6b12a980
-HBO强档频晴,P2p://generationnexxxt.com:19806/55d1f251a1cc4043b0b2a748bcd26242
-HBO原创频晴,P2p://generationnexxxt.com:19806/03579c59806d4cd9b1b3100caacadede
-amc电影频晴,P2p://generationnexxxt.com:19806/f3c27a21d7c94ce897675ac9dbcf304f
 数位电影频晴,P2p://generationnexxxt.com:19806/953af90f5a014c74b239928d831a1480
 WARNER频晴,P2p://generationnexxxt.com:19806/fcf665244a5740ebb61fcba5ef2f6cee
-TVN韩综频晴,P2p://generationnexxxt.com:19806/4cc0c1c2f4204fe0b99ca3552f63894c
 影迷电影频晴,P2p://generationnexxxt.com:19806/71dc6da8b03a42059dae9204b5395a89
 家庭影院频晴,P2p://generationnexxxt.com:19806/8083b7def9404a41808df7039034cac8
 动作电影频晴,P2p://generationnexxxt.com:19806/3dd6b903d6c84def8c6d24db55156032
 戏剧频晴,#genre#
-三立戏剧频晴,P2p://generationnexxxt.com:19806/3e3919a7f09443d1b07bdea99f22e42f
-龙华戏剧频晴,P2p://generationnexxxt.com:19806/b3526dee03424c8090e6d4d5e787c56b
-靖天戏剧频晴,P2p://generationnexxxt.com:19806/08786346511f4fbbbbfe0c4e72ad9409
-靖洋戏剧频晴,P2p://generationnexxxt.com:19806/0089fb08f1b448b99c18ce438a9f7fc5
-东森戏剧频晴,P2p://generationnexxxt.com:19806/d6863286fa4a40cbbf9f93bd5c1e5733
-八大戏剧频晴,P2p://generationnexxxt.com:19806/a5393bab3516410fb2bd81ea2329f7b3
-纬来戏剧频晴,P2p://generationnexxxt.com:19806/8a65b7456abb49f0bd564d6741cd4542
 EYETV戏剧晴,P2p://generationnexxxt.com:19806/bffdd8e7cb994d9e80a697632cf0a40f
-爱尔达影剧晴,P2p://generationnexxxt.com:19806/d2fc333d45044f419b16748a28ac19c5
 亚洲剧台频晴,P2p://generationnexxxt.com:19806/08cc25f383fd45e8b063efb2b2708dbc
-东森戏剧频晴,P2p://generationnexxxt.com:19806/4c925da5e039498a85b4d3fa0bfb5910
 新闻频陆,#genre#
 无线新闻频陆,p3p://108.181.32.169:25570/6533fd5600043bdb2d1c8c0729c35d0c
 无线新闻频陆,p3p://108.181.32.169:25570/6533f9fb00006d352d0f6f9235041f8d
 无线财经频陆,p3p://108.181.32.169:25570/64100aec000c7bc59804a081537730cb
-now财经频陆,p3p://108.181.32.169:25570/641020d00004bf91985a212731011c3c
-now新闻频陆,p3p://108.181.32.169:25570/6410254c0006df63986ba60f292a7500
-凤凰中文频陆,p3p://108.181.32.169:25570/6410229e000655dd98612e41401e3e7d
-凤凰资讯频陆,p3p://108.181.32.169:25570/641022be000e5cc69861ad4f5a025336
-凤凰香港频陆,p3p://108.181.32.169:25570/641022da0005d3069862188000a64525
-民视新闻频陆,p3p://108.181.32.169:25570/64c859e10007934267f487ac0fa618e0
 壹电视新闻陆,p3p://108.181.32.169:25570/642521bd0005dfe9ea654d921969472d
-东森新闻频陆,p3p://108.181.32.169:25570/64251f9700046520ea5ce8b85b6c11da
-tvbs新闻频陆,p3p://108.181.32.169:25570/64252188000673fcea647eb0397d464d
-三立新闻频陆,p3p://108.181.32.169:25570/64251e23000bcd04ea573d7c0f0a002e
-非凡新闻频陆,p3p://108.181.32.169:25570/64258e8600060f7eec0e3ebd6c49020e
-寰宇新闻频陆,p3p://108.181.32.169:25570/64295eb60008744efaf37ae07d17520b
-台视财经频陆,p3p://108.181.32.169:25570/6448a761000bec1a75267316701e7a90
-年代新闻频陆,p3p://108.181.32.169:25570/645b2569000acf2fbd624de55e212fb2
-CNN_my频陆,p3p://108.181.32.169:25570/641380c6000d7e73a588fc4e012b3240
 CNNIndo频陆,p3p://108.181.32.169:25570/641380ea000891c1a58987ab53f905fa
 CNBCmy频陆,p3p://108.181.32.169:25570/64138101000e328aa589e2f46ee85f3d
 ABCAUst频陆,p3p://108.181.32.169:25570/6413811b0006e5f7a58a46a6057a4674
@@ -5501,8 +3947,6 @@ RacingU频陆,p3p://108.181.32.169:25570/6431294f000b80ba1962a8d376855937
 KYSPOR频陆,p3p://108.181.32.169:25570/6431295b0006afff1962d67737a347d9
 test综合频陆,p3p://108.181.32.169:25570/6533f044000117a52ce97ce95ac54bb3
 体育频陆,#genre#
-CCTV-05频陆,p3p://108.181.32.169:25570/64260cb0000afd53edfb140f10811127
-CCTV-5+频陆,p3p://108.181.32.169:25570/64260cbc00081417edfb42307c984dd4
 英超4k-e频陆,p3p://108.181.32.169:25570/64d74cf7000556f0223ed6366e5f689a
 英超1-en频陆,p3p://108.181.32.169:25570/64d74cb1000cc276223dc6ac654a2299
 英超4k-1粤陆,p3p://108.181.32.169:25570/64d74ca40007202e223d927267473868
@@ -5525,11 +3969,8 @@ ELTA-体育叁,p3p://108.181.32.169:25570/642522bd000ad1bbea6936d803e32fc0
 ELTA-体育叁,p3p://108.181.32.169:25570/6433e3220006392724084f1711880c01
 博斯运动频壹,p3p://108.181.32.169:25570/642d000d000525a509217d5a62e868e8
 博斯运动频贰,p3p://108.181.32.169:25570/642d0087000484c5092359c47ee4201a
-博斯魅力频陆,p3p://108.181.32.169:25570/642d395d0004e9950a015dce389f4c91
-博斯网球频陆,p3p://108.181.32.169:25570/642d0029000bd7e70921ec71212f5735
 博斯高球频壹,p3p://108.181.32.169:25570/642d009f000f1f000923ba3b26b667e4
 博斯高球频贰,p3p://108.181.32.169:25570/642d00ae000e846a0923f4ac45c06f09
-博斯无限频陆,p3p://108.181.32.169:25570/642d00bf00041ae7092434690ae526c7
 ASSP-体育壹,p3p://108.181.32.169:25570/6412459f000acfeba0b9eb4448574dee
 ASSP-体育壹,p3p://108.181.32.169:25570/641245bc0008335da0ba5be15de04db6
 ASSP-体育贰,p3p://108.181.32.169:25570/641245e30005d242a0baf39e4a3f4a03
@@ -5690,7 +4131,6 @@ LIFETIME MOVIES USA,p3p://108.181.32.169:25570/6463a5a5000a7afede96fe1018a905c5
 儿童频陆,#genre#
 东森幼幼,p3p://108.181.32.169:25570/6430b41c0001f3831798d72948126428
 MOMO亲子台,p3p://108.181.32.169:25570/6425226f000463e1ea68048207b3285f
-Animax tw,p3p://108.181.32.169:25570/6413807500012fe3a587bcbf2e6b7388
 my,p3p://108.181.32.169:25570/6413803e00077f23a586e786585056af
 Disney Channel,p3p://108.181.32.169:25570/642d446e0000b7480a2c972727bb7b01
 Disney Junior,p3p://108.181.32.169:25570/642d447f000958c70a2cdbc45c491a3c
@@ -5779,23 +4219,6 @@ CM+,p3p://108.181.32.169:25570/65f5aee3000d00b621b571302181656e
 E -Le HD 乐,p3p://108.181.32.169:25570/65f5aeef000e9d4b21b5a07a3391218d
 娱家,p3p://108.181.32.169:25570/65f5aef60008044721b5ba22261e5d65
 ECity 都会台,p3p://108.181.32.169:25570/65f5aefd0000f16221b5d3aa029b351e
-HBO HD my,p3p://108.181.32.169:25570/64137ee50006d7eca581a3b3297e60a3
-HBO tw,p3p://108.181.32.169:25570/64137f0b0006a17fa58238155813216c
-HBO Family my,p3p://108.181.32.169:25570/64137f29000ae5e4a582ae5d42d65d7a
-HBO家庭,p3p://108.181.32.169:25570/64137f3c000d4a86a582f93235111bc5
-HBO Signature my,p3p://108.181.32.169:25570/64137f530000971da5834fca2631479a
-HBO强档,p3p://108.181.32.169:25570/64137f700008f329a583c3344ddf5dfc
-HBO Hits my,p3p://108.181.32.169:25570/64137f85000a578fa58415985b5b1f5d
-HBO原创,p3p://108.181.32.169:25570/64137f970005246ea5845a9326ce6233
-AXN tw,p3p://108.181.32.169:25570/64137fb6000e2555a584d5f94945113b
-Thrill,p3p://108.181.32.169:25570/644a0879000272f67a89b6687af342ae
-AXN tw2,p3p://108.181.32.169:25570/64137fed000660a5a585aad4055228a8
-AXN my,p3p://108.181.32.169:25570/6413800100002d47a585f75e0b4d15d4
-CINEMAX tw,p3p://108.181.32.169:25570/641380160003b61ca5864a4e3d49763a
-Cinemax my,p3p://108.181.32.169:25570/6413802a000969a0a58699e441aa3320
-Animax my,p3p://108.181.32.169:25570/6413803e00077f23a586e786585056af
-Animax tw,p3p://108.181.32.169:25570/6413807500012fe3a587bcbf2e6b7388
-Hits Movies my,p3p://108.181.32.169:25570/6413808800072695a588087e3cc239d1
 CTI Asia中天亚洲,p3p://108.181.32.169:25570/64254f7e000dfed1eb1809855c5735ce
 One HD,p3p://108.181.32.169:25570/64124c0e00080254a0d30c2d0630425d
 Astro AEC(a),p3p://108.181.32.169:25570/64124c2d0006c6eba0d384f41e28720a
@@ -5812,18 +4235,12 @@ Astro AOD 352,p3p://108.181.32.169:25570/6427ba33000e1d77f488dc9d368a21a6
 Astro AOD 353,p3p://108.181.32.169:25570/6427ba4e000e68a7f4894628702a319e
 Astro AOD 354,p3p://108.181.32.169:25570/6427ba6b0002c078f489b4757d803340
 Astro AOD 355,p3p://108.181.32.169:25570/6427ba850008c867f48a1b90472f7860
-Astro 小太阳 Xiaotaiyang,p3p://108.181.32.169:25570/64124cfa00001c82a0d6a40858217ea4
 TVB_CLASSIC,p3p://108.181.32.169:25570/6410219e0000704b985d44bd2a501d47
 TVB星河粤语,p3p://108.181.32.169:25570/64124d6a00062ff8a0d85b176a3f19bd
 TVB星河国语,p3p://108.181.32.169:25570/64124d490002f20da0d7d95b4dbe6256
 TVB Classic,p3p://108.181.32.169:25570/64124d230009d2bba0d746ad78416db2
 TVB_E-NEWS,p3p://108.181.32.169:25570/64124d81000ccc51a0d8b69f1a1a762b
-TVB 粤语片台 HYTV,p3p://108.181.32.169:25570/641022340009a273985f91092cb6113d
-电影一台,p3p://108.181.32.169:25570/6410224e00097a01985ff68e53d22e70
-CCM 天映经典,p3p://108.181.32.169:25570/64124d990007b0aaa0d9131033d9354a
-CCM 天映经典 CN中英字幕,p3p://108.181.32.169:25570/64124dd500082194a0d9fd8d736a3dff
 Celestial MY 天映,p3p://108.181.32.169:25570/64124df1000c3585a0da6bf812014c1a
-Celestial MY 天映2,p3p://108.181.32.169:25570/64124e0f00045619a0dadf2552b73bf8
 Celestial cn 天映2,p3p://108.181.32.169:25570/64124e2b000b454ba0db4e4b137c6137
 SETI 三立国际,p3p://108.181.32.169:25570/64124e4200057913a0dba6a76ebf248c
 Hits Movies,p3p://108.181.32.169:25570/6413852a000f0a74a59a235e4e1c318d
@@ -5863,37 +4280,9 @@ Bloomberg TV my,p3p://108.181.32.169:25570/6413814f000a6413a58b12ab52934c96
 France 24 my,p3p://108.181.32.169:25570/6413816700069158a58b6f7a03cd341c
 Euro news my,p3p://108.181.32.169:25570/6413817b0003393aa58bbcbf158b6409
 FOX NEWS my,p3p://108.181.32.169:25570/6413818e000154fca58c067b60210765
-MTV LIVE my,p3p://108.181.32.169:25570/641381a8000b2beaa58c6e90661462b5
 NHK World my,p3p://108.181.32.169:25570/641381bd00065fefa58cbf5e66b171d0
-BeIN Sports,p3p://108.181.32.169:25570/641381d2000619c4a58d112435007b6d
-BeIN Max Sports,p3p://108.181.32.169:25570/641381e300044201a58d534366ce199d
-WWE Network,p3p://108.181.32.169:25570/641381f6000cd704a58d9fae064d2ede
-Golf Channel USA my,p3p://108.181.32.169:25570/64311ed10003b7461939aaa6737c19fe
-Golf Channel tw,p3p://108.181.32.169:25570/64311ec30002641e1939739f2a9f6e82
-Golf SuperSports,p3p://108.181.32.169:25570/64311edf000047af1939e0754ac733f5
-HGTV HD,p3p://108.181.32.169:25570/64138230000a80f9a58e81a3428a31c6
-HGTV TW,p3p://108.181.32.169:25570/641382440002a30ca58ecdbf74a8039c
-AFC AFN,p3p://108.181.32.169:25570/641382600009923ea58f3ce6638b7516
-TLC HD,p3p://108.181.32.169:25570/64138278000b9ab8a58f9b2b5a106790
-TLC旅游生活,p3p://108.181.32.169:25570/6413828d000cff1da58fed8f7d2719cf
-Food Network,p3p://108.181.32.169:25570/641382a10003769fa590393e3fb23f92
-Asia Food Network,p3p://108.181.32.169:25570/641382ce0009fbafa590eab223060296
-E! HD,p3p://108.181.32.169:25570/641382e1000e0ae1a59135f449455b3d
-DMAX HD,p3p://108.181.32.169:25570/6413830e000184eea591e2872b6d66d2
-Travel Channel,p3p://108.181.32.169:25570/6413832400050785a592395d1e6e5cd2
-Travel,p3p://108.181.32.169:25570/6413833b0002906da592929427bc2047
-CI 罪案侦查频道,p3p://108.181.32.169:25570/6413834e0001dcdfa592dc9e70500376
-Animal Planet,p3p://108.181.32.169:25570/64138361000ebac2a5932a2128c72b2e
-NatGeo,p3p://108.181.32.169:25570/6413837500016343a59374d77edf394b
-NatGeo Wild HD,p3p://108.181.32.169:25570/6413838c000428cca593cf656569021f
-HISTORY2,p3p://108.181.32.169:25570/641383a2000b3d73a59427257bb61a15
-Discovery Science,p3p://108.181.32.169:25570/641383bd000eddc3a594917b13206375
-Discovery Science TW,p3p://108.181.32.169:25570/641383d0000ded44a594db7641050686
-Discovery Asia TW,p3p://108.181.32.169:25570/641383e2000df6c4a59521c82bec6fdc
-Discovery Channel,p3p://108.181.32.169:25570/641383f300048101a59561c464b07293
 BBC News HD,p3p://108.181.32.169:25570/641384e7000133cda5991a1b33cb3ea0
 DW HD,p3p://108.181.32.169:25570/641384f6000cbd09a59957a77daa41a1
-Love Nature,p3p://108.181.32.169:25570/64138508000471b7a5999bd702f428aa
 Disney Channel,p3p://108.181.32.169:25570/6413851900016945a599dd79676c38
 马亚频陆,#genre#
 TV1,p3p://108.181.32.169:25570/64124205000b04f4a0abd9c7062c099b
@@ -5915,22 +4304,12 @@ Madinah,p3p://108.181.32.169:25570/64124447000b5195a0b4aba62ea76703
 Drama Sangat,p3p://108.181.32.169:25570/6412449c000257b9a0b5f5624d0621a2
 TVS,p3p://108.181.32.169:25570/641244ba000752eea0b66bd9202b299b
 Awesome TV,p3p://108.181.32.169:25570/641244e9000576b1a0b722f7232a5c8b
-Bola Arena1,p3p://108.181.32.169:25570/641245040004d52aa0b78c446be55863
-Bola Arena2,p3p://108.181.32.169:25570/64124524000e86a3a0b80bbf421014d4
 Astro Arena 1,p3p://108.181.32.169:25570/6412454a0000fbb4a0b89cb81723411e
 Astro Arena 1(b),p3p://108.181.32.169:25570/64124580000df2d5a0b972fa5e5d3940
-Astro Arena 2,p3p://108.181.32.169:25570/64124568000c643aa0b914d41041515b
 ASSP1(a),p3p://108.181.32.169:25570/6412459f000acfeba0b9eb4448574dee
 ASSP1(b),p3p://108.181.32.169:25570/641245bc0008335da0ba5be15de04db6
 ASSP2(a),p3p://108.181.32.169:25570/641245e30005d242a0baf39e4a3f4a03
 ASSP2(b),p3p://108.181.32.169:25570/641245fd000a6c90a0bb5a5b3f082922
-ASSP3(a),p3p://108.181.32.169:25570/6412462100081e2fa0bbe66467ee6505
-ASSP3(b),p3p://108.181.32.169:25570/6412463b00023f3ca0bc4a7430ab0660
-ASSP4(a),p3p://108.181.32.169:25570/64124658000ad2c0a0bcbdee020d5132
-ASSP4(b),p3p://108.181.32.169:25570/641246e00009e30fa0bed0f161d56da7
-ASSP5(a),p3p://108.181.32.169:25570/641246fc0003baafa0bf3cbe4c8736d8
-ASSP5(b),p3p://108.181.32.169:25570/6412471a00065484a0bfb29809e370b5
-Spotv,p3p://108.181.32.169:25570/6481dc3c00077243549b8cd35b4f0f7f
 Okey,p3p://108.181.32.169:25570/641247390008ab2ba0c02c4a1e6d7c4a
 Astro Ria(a),p3p://108.181.32.169:25570/6412475a0001e9b4a0c0ab7757361ac3
 Astro Ria(b),p3p://108.181.32.169:25570/641248070002b154a0c34f73189527bb
@@ -5957,200 +4336,10 @@ TV-AlHijrah,p3p://108.181.32.169:25570/64124b2900044546a0cf8cb162560917
 TVN Movies,p3p://108.181.32.169:25570/64124b780007d1a1a0d0c23228543327
 TVN Sin,p3p://108.181.32.169:25570/64124bb50008793da0d1b0a6677f4152
 KBS World,p3p://108.181.32.169:25570/64124bf3000b021aa0d2a37c477150fb
-One HD,p3p://108.181.32.169:25570/64124c0e00080254a0d30c2d0630425d
-Astro AEC(a),p3p://108.181.32.169:25570/64124c2d0006c6eba0d384f41e28720a
-Astro AEC(b),p3p://108.181.32.169:25570/64124c700006cf30a0d48aaf01411bf2
-Astro AEC(c)
-Astro 全佳 Quanjia,p3p://108.181.32.169:25570/64124c91000ce85ba0d50d273a3f550c
-Astro 欢喜 Huahee,p3p://108.181.32.169:25570/64124caf0002a78fa0d57fb777596e7b
-Astro双星 ShuangXing,p3p://108.181.32.169:25570/64124cd6000d2114a0d61abd59b301f5
 iQIYI,p3p://108.181.32.169:25570/649672870005e0a5a5062d0e1384610b
 翡翠台(b),p3p://108.181.32.169:25570/6410094a000234c597fe3d0e63905877
-翡翠台MY,p3p://108.181.32.169:25570/6533f6f8000f2ebd2d03af9d53e46544
-TVB黄金翡翠台,p3p://108.181.32.169:25570/64206c63000c3a90d801201c5fe2483a
-Astro AOD 351,p3p://108.181.32.169:25570/6427ba150003a8b2f48864c0637f78d5
-Astro AOD 352,p3p://108.181.32.169:25570/6427ba33000e1d77f488dc9d368a21a6
-Astro AOD 353,p3p://108.181.32.169:25570/6427ba4e000e68a7f4894628702a319e
-Astro AOD 354,p3p://108.181.32.169:25570/6427ba6b0002c078f489b4757d803340
-Astro AOD 355,p3p://108.181.32.169:25570/6427ba850008c867f48a1b90472f7860
-Astro 小太阳 Xiaotaiyang,p3p://108.181.32.169:25570/64124cfa00001c82a0d6a40858217ea4
-TVB_CLASSIC,p3p://108.181.32.169:25570/6410219e0000704b985d44bd2a501d47
-TVB星河粤语,p3p://108.181.32.169:25570/64124d6a00062ff8a0d85b176a3f19bd
-TVB星河国语,p3p://108.181.32.169:25570/64124d490002f20da0d7d95b4dbe6256
-TVB Classic,p3p://108.181.32.169:25570/64124d230009d2bba0d746ad78416db2
-TVB_E-NEWS,p3p://108.181.32.169:25570/64124d81000ccc51a0d8b69f1a1a762b
-TVB 粤语片台 HYTV,p3p://108.181.32.169:25570/641022340009a273985f91092cb6113d
-电影一台,p3p://108.181.32.169:25570/6410224e00097a01985ff68e53d22e70
-CCM 天映经典,p3p://108.181.32.169:25570/64124d990007b0aaa0d9131033d9354a
-CCM 天映经典 CN中英字幕,p3p://108.181.32.169:25570/64124dd500082194a0d9fd8d736a3dff
-Celestial MY 天映,p3p://108.181.32.169:25570/64124df1000c3585a0da6bf812014c1a
-Celestial MY 天映2,p3p://108.181.32.169:25570/64124e0f00045619a0dadf2552b73bf8
-Celestial cn 天映2,p3p://108.181.32.169:25570/64124e2b000b454ba0db4e4b137c6137
-SETI 三立国际,p3p://108.181.32.169:25570/64124e4200057913a0dba6a76ebf248c
-Hits Movies,p3p://108.181.32.169:25570/6413852a000f0a74a59a235e4e1c318d
-Comedy Central,p3p://108.181.32.169:25570/6413853b000926c2a59a644430b12c08
-Kix HD,p3p://108.181.32.169:25570/6413854d000785b1a59aaa2924fa1aa7
-Rugby Pass TV,p3p://108.181.32.169:25570/641385640003a0f9a59b02f333796f30
-Sun TV MY,p3p://108.181.32.169:25570/64138578000a0b4da59b52b76a9552c0
-Sun TVTataSky,p3p://108.181.32.169:25570/6413858800046ac8a59b8fc622de0dc9
-Sun TV Tamil,p3p://108.181.32.169:25570/641385a2000d8ae7a59bf7ad23443b39
-Star Vijay,p3p://108.181.32.169:25570/641385b300076a44a59c388327276d0a
-STAR VIJAY india,p3p://108.181.32.169:25570/64f5a3ef000bd3723990b8062810502f
-BollyOne HD,p3p://108.181.32.169:25570/641385e40004d28aa59cf74f015c1fc8
-Astro Cricket,p3p://108.181.32.169:25570/6413863000096560a59e215b32a17cc3
-Astro Vaanavil,p3p://108.181.32.169:25570/6413864100052c3da59e62ae01dd502f
-Sun Music,p3p://108.181.32.169:25570/64138655000659f1a59eb11c4bb665a7
-Sony Max,p3p://108.181.32.169:25570/6413866d000325caa59f0e0a0a6f3911
-Set Sony,p3p://108.181.32.169:25570/6413868200096c30a59f61a5378b6035
-Sab Sony,p3p://108.181.32.169:25570/641386c1000c2bbfa5a05872576a61bd
-Zee Cinema,p3p://108.181.32.169:25570/641386d30008a32fa5a09dda08bc5c0d
-Zee TV,p3p://108.181.32.169:25570/641386e6000bfb90a5a0e8ee501f7fd5
-Astro Colors,p3p://108.181.32.169:25570/641386f70003798da5a1292811a2387f
-Colors HD TataSky,p3p://108.181.32.169:25570/6413870b00037690a5a177473df07376
-Astro Adithya,p3p://108.181.32.169:25570/6413872200000fa0a5a1d03f37ed2010
-Polimer news,p3p://108.181.32.169:25570/641387360006b6e4a5a2201438a0209c
-Raj TV,p3p://108.181.32.169:25570/641387490003dee5a5a2699101f2025c
-Jaya TV,p3p://108.181.32.169:25570/6413875c000e1e78a5a2b66900ee49b9
-Chutti TV,p3p://108.181.32.169:25570/64138770000495faa5a30218116101b2
-UTV movies,p3p://108.181.32.169:25570/64138783000ac99ca5a34de73976474e
-HBO HD my,p3p://108.181.32.169:25570/64137ee50006d7eca581a3b3297e60a3
-HBO tw,p3p://108.181.32.169:25570/64137f0b0006a17fa58238155813216c
-HBO Family my,p3p://108.181.32.169:25570/64137f29000ae5e4a582ae5d42d65d7a
-HBO家庭,p3p://108.181.32.169:25570/64137f3c000d4a86a582f93235111bc5
-HBO Signature my,p3p://108.181.32.169:25570/64137f530000971da5834fca2631479a
-HBO强档,p3p://108.181.32.169:25570/64137f700008f329a583c3344ddf5dfc
-Golf Channel USA my,p3p://108.181.32.169:25570/64311ed10003b7461939aaa6737c19fe
-Golf Channel tw,p3p://108.181.32.169:25570/64311ec30002641e1939739f2a9f6e82
-Golf SuperSports,p3p://108.181.32.169:25570/64311edf000047af1939e0754ac733f5
-AXN tw,p3p://108.181.32.169:25570/64137fb6000e2555a584d5f94945113b
-Thrill,p3p://108.181.32.169:25570/644a0879000272f67a89b6687af342ae
-AXN tw2,p3p://108.181.32.169:25570/64137fed000660a5a585aad4055228a8
-AXN my,p3p://108.181.32.169:25570/6413800100002d47a585f75e0b4d15d4
-CINEMAX tw,p3p://108.181.32.169:25570/641380160003b61ca5864a4e3d49763a
-Cinemax my,p3p://108.181.32.169:25570/6413802a000969a0a58699e441aa3320
-Animax my,p3p://108.181.32.169:25570/6413803e00077f23a586e786585056af
-Animax tw,p3p://108.181.32.169:25570/6413807500012fe3a587bcbf2e6b7388
-Hits Movies my,p3p://108.181.32.169:25570/6413808800072695a588087e3cc239d1
-CTI Asia中天亚洲,p3p://108.181.32.169:25570/64254f7e000dfed1eb1809855c5735ce
-Blue Ant Entertainm,p3p://108.181.32.169:25570/6413809e000478cba5885dbe4d29586c
-Blue Ant Extreme,p3p://108.181.32.169:25570/641380b20005698fa588ac1c60782adf
-CNN my,p3p://108.181.32.169:25570/641380c6000d7e73a588fc4e012b3240
-CNN Indonesia Indonesia,p3p://108.181.32.169:25570/641380ea000891c1a58987ab53f905fa
-CNBC my,p3p://108.181.32.169:25570/64138101000e328aa589e2f46ee85f3d
-ABC Australia my,p3p://108.181.32.169:25570/6413811b0006e5f7a58a46a6057a4674
-Sky News HD my,p3p://108.181.32.169:25570/641381340003e883a58aa78a57c53479
-Bloomberg TV my,p3p://108.181.32.169:25570/6413814f000a6413a58b12ab52934c96
-France 24 my,p3p://108.181.32.169:25570/6413816700069158a58b6f7a03cd341c
-Euro news my,p3p://108.181.32.169:25570/6413817b0003393aa58bbcbf158b6409
-FOX NEWS my,p3p://108.181.32.169:25570/6413818e000154fca58c067b60210765
-MTV LIVE my,p3p://108.181.32.169:25570/641381a8000b2beaa58c6e90661462b5
-NHK World my,p3p://108.181.32.169:25570/641381bd00065fefa58cbf5e66b171d0
-BeIN Sports,p3p://108.181.32.169:25570/641381d2000619c4a58d112435007b6d
-BeIN Max Sports,p3p://108.181.32.169:25570/641381e300044201a58d534366ce199d
-WWE Network,p3p://108.181.32.169:25570/641381f6000cd704a58d9fae064d2ede
-HGTV HD,p3p://108.181.32.169:25570/64138230000a80f9a58e81a3428a31c6
-HGTV TW,p3p://108.181.32.169:25570/641382440002a30ca58ecdbf74a8039c
-AFC AFN,p3p://108.181.32.169:25570/641382600009923ea58f3ce6638b7516
-TLC HD,p3p://108.181.32.169:25570/64138278000b9ab8a58f9b2b5a106790
-TLC旅游生活,p3p://108.181.32.169:25570/6413828d000cff1da58fed8f7d2719cf
-Food Network,p3p://108.181.32.169:25570/641382a10003769fa590393e3fb23f92
-Asia Food Network,p3p://108.181.32.169:25570/641382ce0009fbafa590eab223060296
-E! HD,p3p://108.181.32.169:25570/641382e1000e0ae1a59135f449455b3d
-DMAX HD,p3p://108.181.32.169:25570/6413830e000184eea591e2872b6d66d2
-Travel Channel,p3p://108.181.32.169:25570/6413832400050785a592395d1e6e5cd2
-Travel,p3p://108.181.32.169:25570/6413833b0002906da592929427bc2047
-CI 罪案侦查频道,p3p://108.181.32.169:25570/6413834e0001dcdfa592dc9e70500376
-Animal Planet,p3p://108.181.32.169:25570/64138361000ebac2a5932a2128c72b2e
-NatGeo,p3p://108.181.32.169:25570/6413837500016343a59374d77edf394b
-NatGeo Wild HD,p3p://108.181.32.169:25570/6413838c000428cca593cf656569021f
-HISTORY2,p3p://108.181.32.169:25570/641383a2000b3d73a59427257bb61a15
-Discovery Science,p3p://108.181.32.169:25570/641383bd000eddc3a594917b13206375
-Discovery Science TW,p3p://108.181.32.169:25570/641383d0000ded44a594db7641050686
-Discovery Asia TW,p3p://108.181.32.169:25570/641383e2000df6c4a59521c82bec6fdc
-Discovery Channel,p3p://108.181.32.169:25570/641383f300048101a59561c464b07293
-BBC News HD,p3p://108.181.32.169:25570/641384e7000133cda5991a1b33cb3ea0
-DW HD,p3p://108.181.32.169:25570/641384f6000cbd09a59957a77daa41a1
-Love Nature,p3p://108.181.32.169:25570/64138508000471b7a5999bd702f428aa
-Disney Channel,p3p://108.181.32.169:25570/6413851900016945a599dd79676c38
 印度频陆,#genre#
-Sun TV MY,p3p://108.181.32.169:25570/64138578000a0b4da59b52b76a9552c0
-Sun TVTataSky,p3p://108.181.32.169:25570/6413858800046ac8a59b8fc622de0dc9
-Sun TV Tamil,p3p://108.181.32.169:25570/641385a2000d8ae7a59bf7ad23443b39
-Star Vijay,p3p://108.181.32.169:25570/641385b300076a44a59c388327276d0a
-STAR VIJAY india,p3p://108.181.32.169:25570/64f5a3ef000bd3723990b8062810502f
-BollyOne HD,p3p://108.181.32.169:25570/641385e40004d28aa59cf74f015c1fc8
-Astro Cricket,p3p://108.181.32.169:25570/6413863000096560a59e215b32a17cc3
 cancel Astro Vaanavil,p3p://108.181.32.169:25570/6413864100052c3da59e62ae01dd502f
-Sun Music,p3p://108.181.32.169:25570/64138655000659f1a59eb11c4bb665a7
-Sony Max,p3p://108.181.32.169:25570/6413866d000325caa59f0e0a0a6f3911
-Set Sony,p3p://108.181.32.169:25570/6413868200096c30a59f61a5378b6035
-Sab Sony,p3p://108.181.32.169:25570/641386c1000c2bbfa5a05872576a61bd
-Zee Cinema,p3p://108.181.32.169:25570/641386d30008a32fa5a09dda08bc5c0d
-Zee TV,p3p://108.181.32.169:25570/641386e6000bfb90a5a0e8ee501f7fd5
-Astro Colors,p3p://108.181.32.169:25570/641386f70003798da5a1292811a2387f
-Colors HD TataSky,p3p://108.181.32.169:25570/6413870b00037690a5a177473df07376
-Astro Adithya,p3p://108.181.32.169:25570/6413872200000fa0a5a1d03f37ed2010
-Polimer news,p3p://108.181.32.169:25570/641387360006b6e4a5a2201438a0209c
-Raj TV,p3p://108.181.32.169:25570/641387490003dee5a5a2699101f2025c
-Jaya TV,p3p://108.181.32.169:25570/6413875c000e1e78a5a2b66900ee49b9
-Chutti TV,p3p://108.181.32.169:25570/64138770000495faa5a30218116101b2
-UTV movies,p3p://108.181.32.169:25570/64138783000ac99ca5a34de73976474e
-HBO HD my,p3p://108.181.32.169:25570/64137ee50006d7eca581a3b3297e60a3
-HBO tw,p3p://108.181.32.169:25570/64137f0b0006a17fa58238155813216c
-HBO Family my,p3p://108.181.32.169:25570/64137f29000ae5e4a582ae5d42d65d7a
-HBO家庭,p3p://108.181.32.169:25570/64137f3c000d4a86a582f93235111bc5
-HBO Signature my,p3p://108.181.32.169:25570/64137f530000971da5834fca2631479a
-HBO强档,p3p://108.181.32.169:25570/64137f700008f329a583c3344ddf5dfc
-HBO Hits my,p3p://108.181.32.169:25570/64137f85000a578fa58415985b5b1f5d
-HBO原创,p3p://108.181.32.169:25570/64137f970005246ea5845a9326ce6233
-AXN tw,p3p://108.181.32.169:25570/64137fb6000e2555a584d5f94945113b
-AXN tw2,p3p://108.181.32.169:25570/64137fed000660a5a585aad4055228a8
-AXN my,p3p://108.181.32.169:25570/6413800100002d47a585f75e0b4d15d4
-CINEMAX tw,p3p://108.181.32.169:25570/641380160003b61ca5864a4e3d49763a
-Cinemax my,p3p://108.181.32.169:25570/6413802a000969a0a58699e441aa3320
-Animax my,p3p://108.181.32.169:25570/6413803e00077f23a586e786585056af
-Animax tw,p3p://108.181.32.169:25570/6413807500012fe3a587bcbf2e6b7388
-Hits Movies my,p3p://108.181.32.169:25570/6413808800072695a588087e3cc239d1
-Blue Ant Entertainm,p3p://108.181.32.169:25570/6413809e000478cba5885dbe4d29586c
-Blue Ant Extreme,p3p://108.181.32.169:25570/641380b20005698fa588ac1c60782adf
-CNN my,p3p://108.181.32.169:25570/641380c6000d7e73a588fc4e012b3240
-CNN Indonesia Indonesia,p3p://108.181.32.169:25570/641380ea000891c1a58987ab53f905fa
-CNBC my,p3p://108.181.32.169:25570/64138101000e328aa589e2f46ee85f3d
-ABC Australia my,p3p://108.181.32.169:25570/6413811b0006e5f7a58a46a6057a4674
-Sky News HD my,p3p://108.181.32.169:25570/641381340003e883a58aa78a57c53479
-Bloomberg TV my,p3p://108.181.32.169:25570/6413814f000a6413a58b12ab52934c96
-France 24 my,p3p://108.181.32.169:25570/6413816700069158a58b6f7a03cd341c
-Euro news my,p3p://108.181.32.169:25570/6413817b0003393aa58bbcbf158b6409
-FOX NEWS my,p3p://108.181.32.169:25570/6413818e000154fca58c067b60210765
-MTV LIVE my,p3p://108.181.32.169:25570/641381a8000b2beaa58c6e90661462b5
-NHK World my,p3p://108.181.32.169:25570/641381bd00065fefa58cbf5e66b171d0
-BeIN Sports,p3p://108.181.32.169:25570/641381d2000619c4a58d112435007b6d
-BeIN Max Sports,p3p://108.181.32.169:25570/641381e300044201a58d534366ce199d
-WWE Network,p3p://108.181.32.169:25570/641381f6000cd704a58d9fae064d2ede
-Golf Channel SKY SPORT,p3p://108.181.32.169:25570/6413821c000b77b6a58e33c27f83093b
-HGTV HD,p3p://108.181.32.169:25570/64138230000a80f9a58e81a3428a31c6
-HGTV TW,p3p://108.181.32.169:25570/641382440002a30ca58ecdbf74a8039c
-AFC AFN,p3p://108.181.32.169:25570/641382600009923ea58f3ce6638b7516
-TLC HD,p3p://108.181.32.169:25570/64138278000b9ab8a58f9b2b5a106790
-TLC旅游生活,p3p://108.181.32.169:25570/6413828d000cff1da58fed8f7d2719cf
-Food Network,p3p://108.181.32.169:25570/641382a10003769fa590393e3fb23f92
-Asia Food Network,p3p://108.181.32.169:25570/641382ce0009fbafa590eab223060296
-E! HD,p3p://108.181.32.169:25570/641382e1000e0ae1a59135f449455b3d
-DMAX HD,p3p://108.181.32.169:25570/6413830e000184eea591e2872b6d66d2
-Travel Channel,p3p://108.181.32.169:25570/6413832400050785a592395d1e6e5cd2
-Travel,p3p://108.181.32.169:25570/6413833b0002906da592929427bc2047
-CI 罪案侦查频道,p3p://108.181.32.169:25570/6413834e0001dcdfa592dc9e70500376
-Animal Planet,p3p://108.181.32.169:25570/64138361000ebac2a5932a2128c72b2e
-NatGeo,p3p://108.181.32.169:25570/6413837500016343a59374d77edf394b
-NatGeo Wild HD,p3p://108.181.32.169:25570/6413838c000428cca593cf656569021f
-HISTORY2,p3p://108.181.32.169:25570/641383a2000b3d73a59427257bb61a15
-Discovery Science,p3p://108.181.32.169:25570/641383bd000eddc3a594917b13206375
-Discovery Science TW,p3p://108.181.32.169:25570/641383d0000ded44a594db7641050686
-Discovery Asia TW,p3p://108.181.32.169:25570/641383e2000df6c4a59521c82bec6fdc
-Discovery Channel,p3p://108.181.32.169:25570/641383f300048101a59561c464b07293
-BBC News HD,p3p://108.181.32.169:25570/641384e7000133cda5991a1b33cb3ea0
-DW HD,p3p://108.181.32.169:25570/641384f6000cbd09a59957a77daa41a1
-Love Nature,p3p://108.181.32.169:25570/64138508000471b7a5999bd702f428aa
 Disney Channel,p3p://108.181.32.169:25570/6413851900016945a599dd79676c389c
 加大频陆,#genre#
 AMC,p3p://108.181.32.169:25570/645fa0880000ff6ecee33c7463b220d0
@@ -6171,7 +4360,6 @@ Fox Soccer PlUS,p3p://108.181.32.169:25570/645fa495000c20bccef3121a77156b7a
 FOX NEWS HD,p3p://108.181.32.169:25570/645fa4a20009e813cef3445113f32f37
 Fox Sport 1 HD,p3p://108.181.32.169:25570/645fa4c30008dd1dcef3c4f45c32522d
 Fox Sports 2 HD,p3p://108.181.32.169:25570/645fa4cf000dced2cef3f51864cd1199
-Freeform HD,p3p://108.181.32.169:25570/645fa4da00021d24cef41d12518274a7
 Sony Ten 1 Sport 1,p3p://108.181.32.169:25570/645fa6e400023cd9cefc142d4d100fb2
 Sony Ten 2 HD,p3p://108.181.32.169:25570/645fa6f00002e5aecefc43384fa34344
 Sony Ten 3 HD,p3p://108.181.32.169:25570/645fa6d700056943cefbe23534d84052
@@ -6215,7 +4403,6 @@ NBC News,p3p://108.181.32.169:25570/645fb231000224f2cf2838ec5da021e1
 STARZ EDGE HD,p3p://108.181.32.169:25570/645fb23a000cdfe3cf285ed44176742b
 Starz Encore Classic,p3p://108.181.32.169:25570/645fb252000ee85ecf28bd190f9a0ab2
 Starz in Black,p3p://108.181.32.169:25570/645fb25e000bff23cf28eb3a514e0515
-Starz Kids,p3p://108.181.32.169:25570/645fb26f00087cd0cf292cbc765a234c
 STARZ East HD,p3p://108.181.32.169:25570/645fb27a00083823cf2957a31eac7185
 TASTEMADE,p3p://108.181.32.169:25570/645fb28a000ebb70cf2997ce41cc3736
 Telemundo (Las Vegas) KBLR,p3p://108.181.32.169:25570/645fb6aa000067adcf39b11820ab16d1
@@ -6226,7 +4413,6 @@ TSN 1,p3p://108.181.32.169:25570/645fb74800051f03cf3c1b7e48bd434c
 TSN 4,p3p://108.181.32.169:25570/645fb758000165ffcf3c590a38de4f76
 TSN 5,p3p://108.181.32.169:25570/645fb76a0007dccfcf3ca10218644e9c
 VH1 HD,p3p://108.181.32.169:25570/645fb7790002bc69cf3cda4a555c4b28
-FXX HD,p3p://108.181.32.169:25570/645fb78600098f61cf3d0ed1150f614a
 American Heroes Channel,p3p://108.181.32.169:25570/645fbbb90002dce0cf4d74571fc73678
 Animal Planet,p3p://108.181.32.169:25570/645fbbb90001ac30cf4d74094f410ac9
 Boomerang,p3p://108.181.32.169:25570/645fbbb8000d5c60cf4d731f793375f9
@@ -6238,8 +4424,6 @@ Nat Geo Wild,p3p://108.181.32.169:25570/645fbc4e000ef087cf4fbd770b2c438b
 Nat Geo,p3p://108.181.32.169:25570/645fbc5a000d37fccf4febe77c8856bb
 nickelodeon TOONS HD,p3p://108.181.32.169:25570/645fbc7000073512cf50404d40471c58
 NICK JR,p3p://108.181.32.169:25570/646270f7000efc24d9e1377e6e776138
-nickelodeon MUSIC,p3p://108.181.32.169:25570/6462700200081b15d9dd78b270197060
-Nick Music,p3p://108.181.32.169:25570/6462701400067a04d9ddbe98570c53f1
 WWE,p3p://108.181.32.169:25570/6462701400067a04d9ddbe9873b90463
 TCM,p3p://108.181.32.169:25570/646271c6000aa69fd9e45efb74141bfe
 TBS,p3p://108.181.32.169:25570/64626ffc000b95aad9dd622652330147
@@ -6300,10 +4484,6 @@ CHARGE!,p3p://108.181.32.169:25570/6465b54500006776e6a404702c326fa0
 DABL,p3p://108.181.32.169:25570/6465b5500000d99ae6a42f8608ee0231
 GET TV,p3p://108.181.32.169:25570/6465b55a000b146ce6a4593440485387
 HEROES,p3p://108.181.32.169:25570/6465b5660008e201e6a4878406bc226b
-MTV 2,p3p://108.181.32.169:25570/6465b57200035a76e6a4b4fa39e03456
-MTV CLASSIC,p3p://108.181.32.169:25570/6465b57e000664abe6a4e4a12a9c53c2
-MTV UHD,p3p://108.181.32.169:25570/6465b595000b11b4e6a53fac6b7c2eaa
-OUTDOOR CHANNEL,p3p://108.181.32.169:25570/6465b5a0000c3aa7e6a56af0523416a8
 OUTSIDE TV,p3p://108.181.32.169:25570/6465b5b40006443ae6a5b78954da1b38
 OVATION,p3p://108.181.32.169:25570/6465c0d70008633ae6d138ca65746d56
 OWN,p3p://108.181.32.169:25570/6465c0e300040c5ee6d1668d39922d8b
@@ -6336,13 +4516,6 @@ PAC 12 OREGON,p3p://108.181.32.169:25570/64682c7d00058f14f045b8853740102a
 WORLD FISHING NETWORK,p3p://108.181.32.169:25570/64682c8800058758f045e37b153f0f08
 US Crime Investigation FHD,p3p://108.181.32.169:25570/64682d1f000dbf82f048336f50b15164
 UNIMAS,p3p://108.181.32.169:25570/64682d2c00014a87f048630660eb6f89
-Music Choice,p3p://108.181.32.169:25570/64682d3700017fbaf0488e0c4d515f97
-Music Choice - Rap 2K HD,p3p://108.181.32.169:25570/64682d42000bb44ff048bba17fdc1687
-Music Choice - Hip-Hop R,p3p://108.181.32.169:25570/64682d4f000c56e6f048ee933d4966de
-Music Choice - ALTERNATIVE,p3p://108.181.32.169:25570/64682d6200079767f04937936ac935be
-MoviePlex FHD,p3p://108.181.32.169:25570/64682d6e000ead8df049684444cc6e25
-FUSION,p3p://108.181.32.169:25570/64682d86000d9dd7f049c5be62a544dc
-INVESTMENT PITCH,p3p://108.181.32.169:25570/64682d920000784af049f14136c47100
 CCX,p3p://108.181.32.169:25570/64682d9d0007d19ef04a1e1b33280293
 日本频陆,#genre#
 ATXhd频道陆,p3p://108.181.32.169:25570/641a21dd00026e59bf6e022f53082a9d
@@ -6548,7 +4721,6 @@ FMN,p3p://108.181.32.169:25570/64325ee7000070de1e1bffc154703072
 MNC Shop Smart,p3p://108.181.32.169:25570/64325f0100000b7b1e1c65377ae07d02
 TRT World,p3p://108.181.32.169:25570/64325f16000226b11e1cb7c9769e6d7a
 Ochannel Discovery Asia,p3p://108.181.32.169:25570/64325f260007794d1e1cf7a65c7207d1
-Thrill,p3p://108.181.32.169:25570/644a0879000272f67a89b6687af342ae
 美国频陆,#genre#
 INDOSIar频陆,p3p://108.181.32.169:25570/64325c920009f49e1e12e62970e9411d
 INDOSIar频陆,p3p://108.181.32.169:25570/64325ca1000e59b91e1321e1655455dc
@@ -6604,139 +4776,3 @@ Hbowest频陆,p3p://108.181.32.169:25570/645faf5300023119cf1d05bc76d93f08
 HGTVHD频陆,p3p://108.181.32.169:25570/645faf620008f794cf1d421031440484
 HLN美国频陆,p3p://108.181.32.169:25570/645faf6d000c81e8cf1d6df010bc2957
 HuntChannel,p3p://108.181.32.169:25570/645faf81000872fbcf1dbb061b22733d
-IFC,p3p://108.181.32.169:25570/645faf8c0001471dcf1de4297e546134
-INSP,p3p://108.181.32.169:25570/645faf97000d6332cf1e123a66905eb1
-Starz,p3p://108.181.32.169:25570/645fb2230008e9abcf2803f86356448a
-NBC News,p3p://108.181.32.169:25570/645fb231000224f2cf2838ec5da021e1
-STARZ EDGE HD,p3p://108.181.32.169:25570/645fb23a000cdfe3cf285ed44176742b
-Starz Encore Classic,p3p://108.181.32.169:25570/645fb252000ee85ecf28bd190f9a0ab2
-Starz in Black,p3p://108.181.32.169:25570/645fb25e000bff23cf28eb3a514e0515
-Starz Kids,p3p://108.181.32.169:25570/645fb26f00087cd0cf292cbc765a234c
-STARZ East HD,p3p://108.181.32.169:25570/645fb27a00083823cf2957a31eac7185
-TASTEMADE,p3p://108.181.32.169:25570/645fb28a000ebb70cf2997ce41cc3736
-Telemundo (Las Vegas) KBLR,p3p://108.181.32.169:25570/645fb6aa000067adcf39b11820ab16d1
-The Cowboy Channel,p3p://108.181.32.169:25570/645fb6c60003c4cfcf3a1f5556c03ff1
-THE WORD NETWORK,p3p://108.181.32.169:25570/645fb711000a4563cf3b45f720ec1bde
-TNT HD,p3p://108.181.32.169:25570/645fb72500067366cf3b931d54194f25
-TSN 1,p3p://108.181.32.169:25570/645fb74800051f03cf3c1b7e48bd434c
-TSN 4,p3p://108.181.32.169:25570/645fb758000165ffcf3c590a38de4f76
-TSN 5,p3p://108.181.32.169:25570/645fb76a0007dccfcf3ca10218644e9c
-VH1 HD,p3p://108.181.32.169:25570/645fb7790002bc69cf3cda4a555c4b28
-FXX HD,p3p://108.181.32.169:25570/645fb78600098f61cf3d0ed1150f614a
-American Heroes Channel,p3p://108.181.32.169:25570/645fbbb90002dce0cf4d74571fc73678
-Animal Planet,p3p://108.181.32.169:25570/645fbbb90001ac30cf4d74094f410ac9
-Boomerang,p3p://108.181.32.169:25570/645fbbb8000d5c60cf4d731f793375f9
-Bravo,p3p://108.181.32.169:25570/645fbbb7000ed03ecf4d6f965eef3fe5
-Baby TV,p3p://108.181.32.169:25570/645fa0cf000dc95ccee45512712a51fd
-Cartoon Network,p3p://108.181.32.169:25570/645fbdca000b25b2cf5588e126f826a4
-Court TV,p3p://108.181.32.169:25570/645fbbb70008dccdcf4d6e107b5c1b8f
-Nat Geo Wild,p3p://108.181.32.169:25570/645fbc4e000ef087cf4fbd770b2c438b
-Nat Geo,p3p://108.181.32.169:25570/645fbc5a000d37fccf4febe77c8856bb
-nickelodeon TOONS HD,p3p://108.181.32.169:25570/645fbc7000073512cf50404d40471c58
-NICK JR,p3p://108.181.32.169:25570/646270f7000efc24d9e1377e6e776138
-nickelodeon MUSIC,p3p://108.181.32.169:25570/6462700200081b15d9dd78b270197060
-Nick Music,p3p://108.181.32.169:25570/6462701400067a04d9ddbe98570c53f1
-WWE,p3p://108.181.32.169:25570/6462701400067a04d9ddbe9873b90463
-TCM,p3p://108.181.32.169:25570/646271c6000aa69fd9e45efb74141bfe
-TBS,p3p://108.181.32.169:25570/64626ffc000b95aad9dd622652330147
-DIY Network,p3p://108.181.32.169:25570/64627016000985b8d9ddc72f70d00e9e
-Dog TV,p3p://108.181.32.169:25570/6462702f000f1a04d9de2a4569c51756
-Lifetime,p3p://108.181.32.169:25570/6462704200005b24d9de70b7255a7658
-LIFETIME MOVIES,p3p://108.181.32.169:25570/6463a5a5000a7afede96fe1018a905c5
-BEIN SPORTS 11,p3p://108.181.32.169:25570/6463a5b400077f08de9737e474b0055b
-USA: BeIN Sports 4,p3p://108.181.32.169:25570/6463a5cb00045120de9790ec0ec340aa
-USA: BeIN Sports 6,p3p://108.181.32.169:25570/6463a5de00091722de97dc4d0e413139
-beIN Sports USA,p3p://108.181.32.169:25570/6463a5eb000a7089de980f6e0e9c48d5
-Supersport Premier League,p3p://108.181.32.169:25570/6463a5f80008b1c0de9841c45e2d124f
-Supersport Football,p3p://108.181.32.169:25570/6463a606000229f7de9876c846553fcc
-Supersport LaLiga,p3p://108.181.32.169:25570/6463a6260000ab5fde98f3660a053de2
-SuperSport MaXimo,p3p://108.181.32.169:25570/6463a638000409ffde993a937bef2d62
-Supersport Motorsport,p3p://108.181.32.169:25570/6463a64500015776de996caa4be276c3
-Supersport PSL,p3p://108.181.32.169:25570/6463a8ff000b74a1dea415d470ea7983
-Supersport Variety 3,p3p://108.181.32.169:25570/6463a90d000d7e9adea44d0a511a6930
-Supersport Variety 4,p3p://108.181.32.169:25570/6463a926000e1336dea4aed876667f60
-Tennis Channel,p3p://108.181.32.169:25570/6463a94a000dac55dea53b5e725857f0
-E! Entertainment,p3p://108.181.32.169:25570/6463a9740001391ddea5dc3e432509a2
-Syfy,p3p://108.181.32.169:25570/6463a98300033cd8dea6175a59d77cab
-Syfy East HD,p3p://108.181.32.169:25570/6463a9a00000a04bdea687f71d762dd5
-Starz Encore Suspense,p3p://108.181.32.169:25570/6463a9c40007d76bdea716705bdc07cf
-Starz Encore Westerners,p3p://108.181.32.169:25570/6463a9eb00075dcfdea7aea918277655
-CMC USA,p3p://108.181.32.169:25570/6463af990004c1a9debdddb529d477dc
-History,p3p://108.181.32.169:25570/6463afa5000ae40edebe0e274b9f668b
-History 2,p3p://108.181.32.169:25570/6463afb1000d7464debe3daf571548ff
-H2,p3p://108.181.32.169:25570/6463afbe000d9d1bdebe70825c5a097a
-Longhorn Network,p3p://108.181.32.169:25570/6463afcd00065844debea93d00cc790a
-TLC,p3p://108.181.32.169:25570/6463afd90007b7e9debed8772a126a6b
-EPIX Hits,p3p://108.181.32.169:25570/6463afe700066cc2debf0ed300a64c66
-Fuse,p3p://108.181.32.169:25570/6463aff3000eb398debf3fd11dad2ee9
-NewsmaxTV,p3p://108.181.32.169:25570/6463b008000a617cdebf90be602c4318
-MSNBC,p3p://108.181.32.169:25570/6463b01500091c93debfc3337c9a0e9c
-MSNBC b
-BBC World News,p3p://108.181.32.169:25570/6465a784000201aee66e4af152371a81
-Cheddar News,p3p://108.181.32.169:25570/6465a78f00077382e66e774d7a1176a6
-Smithsonian Channel,p3p://108.181.32.169:25570/6465a79d00097d7be66eae831da34d70
-Showtime 2 4K+,p3p://108.181.32.169:25570/6465a7b1000c18cee66efd4e762372f9
-Showtime Family Zone,p3p://108.181.32.169:25570/6465a7bf0005cdf6e66f326272d24e9f
-Showtime Showcase,p3p://108.181.32.169:25570/6465a7cc0000033ce66f63ae51f40777
-SHOWTIME NEXT,p3p://108.181.32.169:25570/6465a7d700062be0e66f903a66377362
-ShowTime Woman,p3p://108.181.32.169:25570/6465a7e4000248a7e66fc203775c31a0
-Al Jazeera,p3p://108.181.32.169:25570/6465a7ef000203fae66fecea78625081
-The Weather Channel,p3p://108.181.32.169:25570/6465a7fb0004575fe6701c626deb47fd
-BET,p3p://108.181.32.169:25570/6465abd00001206ae67f139c230c5814
-MOTOR TREND,p3p://108.181.32.169:25570/6465abd00001206ae67f139c764a6ace
-FREE SPEECH TV,p3p://108.181.32.169:25570/6465abd00000e37ae67f138c292320b2
-NEWS 12 CONNECTICUT,p3p://108.181.32.169:25570/6465abce000b2c48e67f0e5e77df4110
-NEWS 12 LONG ISLAND,p3p://108.181.32.169:25570/6465abe3000a2f4de67f6026547a726c
-NEWS 12 THE BRONX,p3p://108.181.32.169:25570/6465abfa00086f05e67fb98b35733f88
-NEWS 12 WESTCHESTER,p3p://108.181.32.169:25570/6465ac0a00093bd1e67ff8404bce63ed
-NEWSY,p3p://108.181.32.169:25570/6465ac1c0003cbc0e6803d2b05391318
-RT AMERICA,p3p://108.181.32.169:25570/6465ac2800084395e6806d30799b0f28
-ASPIRE TV,p3p://108.181.32.169:25570/6465ac44000f32c7e680dc572130539e
-CHARGE!,p3p://108.181.32.169:25570/6465b54500006776e6a404702c326fa0
-DABL,p3p://108.181.32.169:25570/6465b5500000d99ae6a42f8608ee0231
-GET TV,p3p://108.181.32.169:25570/6465b55a000b146ce6a4593440485387
-HEROES,p3p://108.181.32.169:25570/6465b5660008e201e6a4878406bc226b
-MTV 2,p3p://108.181.32.169:25570/6465b57200035a76e6a4b4fa39e03456
-MTV CLASSIC,p3p://108.181.32.169:25570/6465b57e000664abe6a4e4a12a9c53c2
-MTV UHD,p3p://108.181.32.169:25570/6465b595000b11b4e6a53fac6b7c2eaa
-OUTDOOR CHANNEL,p3p://108.181.32.169:25570/6465b5a0000c3aa7e6a56af0523416a8
-OUTSIDE TV,p3p://108.181.32.169:25570/6465b5b40006443ae6a5b78954da1b38
-OVATION,p3p://108.181.32.169:25570/6465c0d70008633ae6d138ca65746d56
-OWN,p3p://108.181.32.169:25570/6465c0e300040c5ee6d1668d39922d8b
-PARAMOUNT NETWORK,p3p://108.181.32.169:25570/6465c0f300032e9ae6d1a4d574ed2855
-PBS,p3p://108.181.32.169:25570/6465c0fe0007acaee6d1d0f3686a31ca
-POP,p3p://108.181.32.169:25570/6465c12700085746e6d271474f017d4a
-POP TV,p3p://108.181.32.169:25570/6465c131000b3108e6d2991278326004
-QVC,p3p://108.181.32.169:25570/6465c13e00028b0ee6d2c9a339d47db8
-QVC UHD,p3p://108.181.32.169:25570/6465c1480004ae00e6d2f13f4ba531c7
-RFD-TV,p3p://108.181.32.169:25570/6465c15c000524e3e6d33f7e534b3a92
-TRU TV,p3p://108.181.32.169:25570/64682b2c00003594f04092bd64972b7e
-TRU-TV UHD,p3p://108.181.32.169:25570/64682b36000c1af7f040bcd964be2353
-TV LAND,p3p://108.181.32.169:25570/64682b43000743fdf040ee6460c377b4
-TV LAND UHD,p3p://108.181.32.169:25570/64682b500000c273f0411f8157394a34
-WAPA AMERICA,p3p://108.181.32.169:25570/64682b5a000a8366f04149101c5d5e77
-WE TV,p3p://108.181.32.169:25570/64682b6500031a98f041722362770d0d
-WE TV UHD,p3p://108.181.32.169:25570/64682b70000e7fddf041a006314532d9
-WE TV+,p3p://108.181.32.169:25570/64682b85000a2dc1f041f0f3612c3741
-WGN AMERICA,p3p://108.181.32.169:25570/64682b90000a9fe5f0421c083ebb6528
-UNIVERSAL KIDS,p3p://108.181.32.169:25570/64682b9c000e9ddaf0424bee25af494e
-CINEMAX MOREMAX,p3p://108.181.32.169:25570/64682c13000f0c0bf0441ce2648a038d
-HDNET MOVIES,p3p://108.181.32.169:25570/64682c1e000d1ccef044475c44c04e88
-OUTERMAX,p3p://108.181.32.169:25570/64682c2b000d0895f0447a1f32971abf
-RETROPLEX,p3p://108.181.32.169:25570/64682c38000edbdcf044ad5e53c1581a
-BALLY SPORTS ARIZONA PLUS,p3p://108.181.32.169:25570/64682c4400013c70f044d8c23c785ebb
-BALLY SPORTS GREAT LAKES,p3p://108.181.32.169:25570/64682c4f000040f3f04503797ca74a7c
-NBCSN BAY AREA,p3p://108.181.32.169:25570/64682c5c000b99bbf045392909a95b04
-PAC 12 ARIZONA,p3p://108.181.32.169:25570/64682c710005232ff045898938b03550
-PAC 12 OREGON,p3p://108.181.32.169:25570/64682c7d00058f14f045b8853740102a
-WORLD FISHING NETWORK,p3p://108.181.32.169:25570/64682c8800058758f045e37b153f0f08
-US Crime Investigation FHD,p3p://108.181.32.169:25570/64682d1f000dbf82f048336f50b15164
-UNIMAS,p3p://108.181.32.169:25570/64682d2c00014a87f048630660eb6f89
-Music Choice,p3p://108.181.32.169:25570/64682d3700017fbaf0488e0c4d515f97
-Music Choice - Rap 2K HD,p3p://108.181.32.169:25570/64682d42000bb44ff048bba17fdc1687
-Music Choice - Hip-Hop R,p3p://108.181.32.169:25570/64682d4f000c56e6f048ee933d4966de
-Music Choice - ALTERNATIVE,p3p://108.181.32.169:25570/64682d6200079767f04937936ac935be
-MoviePlex FHD,p3p://108.181.32.169:25570/64682d6e000ead8df049684444cc6e25
-FUSION,p3p://108.181.32.169:25570/64682d86000d9dd7f049c5be62a544dc
-INVESTMENT PITCH,p3p://108.181.32.169:25570/64682d920000784af049f14136c47100
-CCX,p3p://108.181.32.169:25570/64682d9d0007d19ef04a1e1b33280293
