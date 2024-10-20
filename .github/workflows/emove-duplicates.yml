@@ -1,4 +1,4 @@
-name: Remove Duplicates from tt.txt  
+name: 去掉txt文件重复名字  
   
 on:  
   push:  
