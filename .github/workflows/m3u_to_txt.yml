@@ -28,7 +28,7 @@ jobs:
   
     - name: Run conversion script  
       run: |  
-        py/python m3u_to_txt.py  
+       python  py/m3u_to_txt.py 
   
     - name: Commit and push changes  
       run: |  
