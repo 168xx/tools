@@ -1,9 +1,9 @@
-name: Convert M3U to TXT  
+name: 全部m3u转换txt 
   
 on:  
   push:  
     paths:  
-      - 'tv/tv.m3u'  # 当tv.m3u文件发生变化时触发  
+      - 'tv/**.m3u'  # 当m3u文件发生变化时触发  
   workflow_dispatch:  # 手动触发  
   
 jobs:  
@@ -28,12 +28,12 @@ jobs:
   
     - name: Run conversion script  
       run: |  
-       python  py/m3u_to_txt.py 
+        python py/m3u_to_txt.py  
   
     - name: Commit and push changes  
       run: |  
         git config --local user.name 'github-actions'  
         git config --local user.email 'github-actions@github.com'  
-        git add tv/tv.txt  
-        git commit -m 'Automated conversion of tv/tv.m3u to tv/tv.txt' || true  # 如果没有变化则不提交  
+        git add tv/**.txt  
+        git commit -m 'Automated conversion of tv/**.m3u to tv/**.txt' || true  # 如果没有变化则不提交  
         git push origin HEAD
