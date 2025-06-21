@@ -1,0 +1,32 @@
+name: URL Extractor
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  extract-urls:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+      with:
+            token: ${{ secrets.LIVELIST }}
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.8'
+
+    - name: Run URL extractor
+      run: python tqdz.py
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add url.txt
+        git commit -m "Update url.txt with extracted URLs"
+        git push
